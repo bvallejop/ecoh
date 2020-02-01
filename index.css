@@ -8,5 +8,39 @@
 /*
 
   TYPOGRAPHY
+  - 
 
 */
+.ff-apercu-pro { font-family: "Apercu Pro", sans-serif; }
+.ff-apercu-pro-bold { font-family: "Apercu Pro Bold", sans-serif; }
+/*
+
+  FONT-FACE
+  - Apercu Pro
+  - Apercu Bold
+
+*/
+
+@font-face {
+  font-family: 'Apercu Pro';
+  src: url('Apercu-Pro.eot');
+  src: url('Apercu-Pro.eot?#iefix') format('embedded-opentype'),
+    url('Apercu-Pro.woff2') format('woff2'),
+    url('Apercu-Pro.woff') format('woff'),
+    url('Apercu-Pro.ttf') format('truetype'),
+  url('Apercu0Pro.svg#ApercuPro') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Apercu Pro Bold';
+  src: url('Apercu-Pro-Bold.eot');
+  src: url('Apercu-Pro-Bold.eot?#iefix') format('embedded-opentype'),
+      url('Apercu-Pro-Bold.woff2') format('woff2'),
+      url('Apercu-Pro-Bold.woff') format('woff'),
+      url('Apercu-Pro-Bold.ttf') format('truetype'),
+      url('Apercu-Pro-Bold.svg#ApercuPro-Bold') format('svg');
+  font-weight: bold;
+  font-style: normal;
+}
