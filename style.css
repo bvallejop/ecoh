@@ -1,0 +1,115 @@
+/* logo */ 
+
+.logoimage {
+    height: 35px;
+    width: 35px;
+    margin-right: auto;
+}
+
+.logotext {
+    height: 15.24px;
+    width: 85px;
+}
+
+.logoimagefooter {
+    height: 18px;
+    width: 18px;
+    margin-left: 43px;
+    margin-right: 43px;
+}
+
+/* fonts */
+
+.font {
+    font-family: 'Lato', sans-serif;
+}
+
+.fontcolor{
+    color: #B7B4B4;
+}
+
+.fontsize-1{
+    font-size: 11px;
+}
+
+.fontsize-2 {
+    font-size: 18px;
+}
+
+.letterspacing {
+    letter-spacing: 2.5px;
+}
+
+.uppercase {
+    text-transform: uppercase;
+}
+
+.lineheight {
+    line-height: 1.5;
+}
+
+/* ------ */
+
+.height {
+    height: 100%;
+}
+
+.center {
+    justify-content: center;
+    align-items: center;
+}
+
+/* flex */
+
+.flexdirection { 
+    flex-direction: column;
+}
+
+.flex {
+    flex: 1;
+}
+
+
+.flexbox {
+    display: flex;
+}
+
+/* ------ */
+
+.headerfooter {
+    height: 67px;
+}
+
+.respimage{
+    width: 100%;
+    height: auto;
+}
+.inlineblock {
+    display: inline-block;
+}
+
+.objectfit {
+    object-fit: contain;
+}
+
+.padding-1{
+    padding: 15px;
+}
+
+.p-logoheader{
+    padding: 0 5px;
+}
+
+
+
+a {
+    text-decoration: none;
+}
+
+/* Media query */
+
+@media (max-width:700px) {
+    .logotext{
+        display: none;
+    }
+}
