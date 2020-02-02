@@ -8,6 +8,7 @@
 /* Display */
 .d-block { display: block; }
 .d-inline_block { display: inline-block; }
+/* Overflow */
 .oy-hidden { overflow-y: hidden; }
 /*
 
@@ -48,8 +49,7 @@
 
 */
 /* Font family */
-.ff-apercu-pro { font-family: "Apercu Pro", sans-serif; }
-.ff-apercu-pro-bold { font-family: "Apercu Pro Bold", sans-serif; }
+.ff-apercu_pro { font-family: "Apercu Pro", sans-serif; }
 /* Font weight */
 .fw-bold { font-weight: bold; }
 /* Font size */
@@ -118,4 +118,19 @@
     url('Apercu-Pro.woff') format('woff'),
     url('Apercu-Pro.ttf') format('truetype'),
   url('Apercu-Pro.svg#ApercuPro') format('svg');
+}
+/*
+
+  MEDIA QUERIES
+  - Medium
+  - Large
+
+*/
+/* Medium */
+@media screen and (min-width: 480px) {
+ .mt-80px-m { margin-top: 80px; }
+}
+/* Large */
+@media screen and (min-width: 960px) {
+  .mt-48px-l { margin-top: 48px; }
 }
