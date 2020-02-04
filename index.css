@@ -8,6 +8,8 @@
 /* Display */
 .d-block { display: block; }
 .d-inline_block { display: inline-block; }
+.d-flex { display: flex; }
+.d-none { display: none; }
 /* Overflow */
 .oy-hidden { overflow-y: hidden; }
 /*
@@ -29,14 +31,16 @@
 
 */
 /* Margin */
-.mt-48px { margin-top: 48px; }
+.mv-48px { margin-top: 48px; margin-bottom: 48px; }
 .mb-8px { margin-bottom: 8px; }
 .mb-12px { margin-bottom: 12px; }
-.mb-24px { margin-bottom: 24px; }
 /* Padding */
 .pv-16px { padding-top: 16px; padding-bottom: 16px; }
-.pr-16px { padding-right: 16px; }
 .ph-24px { padding-right: 24px; padding-left: 24px; }
+.pr-4px { padding-right: 4px; }
+.pr-16px { padding-right: 16px; }
+.pb-0px { padding-bottom: 0px; }
+.pb-24px { padding-bottom: 24px; }
 /*
 
   TYPOGRAPHY
@@ -45,6 +49,7 @@
   - Font size
   - Line height
   - Letter spacing
+  - Text decoration
   - Text transform
 
 */
@@ -57,10 +62,13 @@
 .fs-14px { font-size: 14px; }
 .fs-16px { font-size: 16px; }
 /* Line height */
+.lh-16px { line-height: 16px; }
 .lh-20px { line-height: 20px; }
 /* Letter spacing */
 .ls-0_5px { letter-spacing: 0.5px; }
 .ls-1px { letter-spacing: 1px; }
+/* Text decoration */
+.td-underline { text-decoration: underline; }
 /* Text transform */
 .tt-uppercase { text-transform: uppercase; }
 /*
@@ -97,11 +105,16 @@
 /*
 
   ANIMATION PRESET
-  - Opacity
+  - Partial Fade-in
+  - Partial Fade-out
 
 */
-.ap-opacity { opacity: 1; }
-.ap-opacity:hover { opacity: 0.5 }
+/* Partial Fade-in */
+.ap-partial_fade_in { opacity: 0.5; }
+.ap-partial_fade_in:hover { opacity: 1; }
+/* Partial Fade-out */
+.ap-partial_fade_out { opacity: 1; }
+.ap-partial_fade_out:hover { opacity: 0.5 }
 
 /*
 
@@ -128,9 +141,20 @@
 */
 /* Medium */
 @media screen and (min-width: 480px) {
- .mt-80px-m { margin-top: 80px; }
+  .d-flex-m { display: flex; }
+  .d-block-m { display: block; }
+  .f-1-m { flex: 1; }
+  .oy-hidden-m { overflow-y: hidden; }
+  .oy-scroll-m { overflow-y: scroll; }
+  .h-100pt-m { height: 100%; }
+  .w-320px-m { width: 320px; }
+  .m-0px-m { margin: 0px; }
+  .p-0px-m { padding: 0px; }
+  .pt-48px-m { padding-top: 48px; }
+  .pl-24px-m { padding-left: 24px; }
 }
 /* Large */
 @media screen and (min-width: 960px) {
-  .mt-48px-l { margin-top: 48px; }
+  .mw-640px-l { max-width: 640px; }
+  .mh-auto-l { margin-right: auto; margin-left: auto; }
 }
