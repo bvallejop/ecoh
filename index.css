@@ -1,17 +1,36 @@
 /*
 
   GENERAL
+  - Position
+  - Z index
   - Display
+  - Flex
   - Overflow
+  - White space
 
 */
+/* Position */
+.p-fixed { position: fixed; }
+.p-relative { position: relative; }
+.t-0px { top: 0px; }
+.t--0_5px { top: -0.5px; }
+.r-0px { right: 0px; }
+.l-0px { left: 0px; }
+/* Z index */
+.zi-10 { z-index: 10; }
 /* Display */
 .d-block { display: block; }
 .d-inline_block { display: inline-block; }
 .d-flex { display: flex; }
 .d-none { display: none; }
+/* Flex */
+.ai-center { align-items: center; }
+.jc-space_between { justify-content: space-between; }
 /* Overflow */
 .oy-hidden { overflow-y: hidden; }
+.ox-scroll { overflow-x: scroll; }
+/* White space */
+.ws-nowrap { white-space: nowrap; }
 /*
 
   SIZING
@@ -32,14 +51,23 @@
 */
 /* Margin */
 .mv-48px { margin-top: 48px; margin-bottom: 48px; }
+.mt-136px { margin-top: 136px; }
+.mr-8px { margin-right: 8px; }
+.mr-16px { margin-right: 16px; }
+.mb-4px { margin-bottom: 4px; }
 .mb-8px { margin-bottom: 8px; }
 .mb-12px { margin-bottom: 12px; }
+.mb-48px { margin-bottom: 48px; }
 /* Padding */
+.pv-12px { padding-top: 16px; padding-bottom: 16px; }
 .pv-16px { padding-top: 16px; padding-bottom: 16px; }
 .ph-24px { padding-right: 24px; padding-left: 24px; }
+.pt-24px { padding-top: 24px; }
 .pr-4px { padding-right: 4px; }
 .pr-16px { padding-right: 16px; }
+.pr-24px { padding-right: 24px; }
 .pb-0px { padding-bottom: 0px; }
+.pb-16px { padding-bottom: 16px; }
 .pb-24px { padding-bottom: 24px; }
 /*
 
@@ -76,15 +104,18 @@
   STYLING
   - Background color
   - Border
+  - Backdrop filter
 
 */
 /* Background color */
 .bc-transparent { background-color: transparent; }
+.bc-white { background-color: white; }
 /* Border */
 .b-none { border: none; }
 .bbs-solid { border-bottom-style: solid; }
 .bbw-1px { border-bottom-width: 1px; }
 .bbc-black { border-bottom-color: black; }
+.bbc-light_gray { border-bottom-color: #f2f2f7; }
 /*
 
   TRANSITIONS
@@ -143,6 +174,8 @@
 @media screen and (min-width: 480px) {
   .d-flex-m { display: flex; }
   .d-block-m { display: block; }
+  .d-inline_block-m { display: inline-block; }
+  .d-none-m { display: none; }
   .f-1-m { flex: 1; }
   .oy-hidden-m { overflow-y: hidden; }
   .oy-scroll-m { overflow-y: scroll; }
@@ -151,6 +184,8 @@
   .m-0px-m { margin: 0px; }
   .p-0px-m { padding: 0px; }
   .pt-48px-m { padding-top: 48px; }
+  .pt-69px-m { padding-top: 69px; }
+  .pb-96px-m { padding-bottom: 96px; }
   .pl-24px-m { padding-left: 24px; }
 }
 /* Large */
