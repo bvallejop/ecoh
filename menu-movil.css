@@ -27,11 +27,14 @@
 
   SIZING
   - Width
+  - Height
   - Max height
 
 */
 /* Width */
 .w-100pt { width: 100%; }
+/* Height */
+.h-100pt { height: 100%; }
 /* Max height */
 .mh-0px { max-height: 0px; }
 /*
@@ -98,11 +101,21 @@
 */
 /* Background color */
 .bc-transparent { background-color: transparent; }
+.bc-white { background-color: white; }
 /* Border */
 .b-none { border: none; }
 .bbs-solid { border-bottom-style: solid; }
 .bbw-1px { border-bottom-width: 1px; }
 .bbc-black { border-bottom-color: black; }
+/*
+
+  TRANSFORM
+  - Translate y
+
+*/
+/* Translate y */
+.t-ty--100pt { transform: translateY(-100%); }
+.t-ty-0px { transform: translateY(0px); }
 /*
 
   TRANSITIONS
@@ -114,6 +127,7 @@
 /* Transition property */
 .tp-max_height { transition-property: max-height; }
 .tp-opacity { transition-property: opacity; }
+.tp-transform { transition-property: transform; } 
 /* Transition timing function */
 .ttf-ease_in_out { transition-timing-function: ease-in-out; }
 .ttf-cubic_bezier { transition-timing-function: cubic-bezier(0.785, 0.135, 0.15, 0.86); }
