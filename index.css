@@ -12,6 +12,7 @@
 */
 /* Position */
 .p-fixed { position: fixed; }
+.p-absolute { position: absolute; }
 .p-relative { position: relative; }
 .t-0px { top: 0px; }
 .t--0_5px { top: -0.5px; }
@@ -56,14 +57,14 @@
 /* Max height */
 .mh-0px { max-height: 0px; }
 /* Height */
-.h-67px {height: 67px; }
-.h-18px {height: 18px; }
-.h-70px {height: 70px; }
-.h-35px {height: 35px; }
-.h-15px {height: 15px; }
-.h-100pt {height: 100%; }
-.h-18px {height: 18px; } 
-.h-auto {height: auto;}
+.h-auto { height: auto;}
+.h-15px { height: 15px; }
+.h-18px { height: 18px; }
+.h-35px { height: 35px; }
+.h-67px { height: 67px; }
+.h-70px { height: 70px; }
+.h-300px { height: 300px; }
+.h-100pt { height: 100%; }
 /*
 
   SPACING
@@ -72,7 +73,9 @@
 
 */
 /* Margin */
+.m-15px {margin: 15px; }
 .mv-48px { margin-top: 48px; margin-bottom: 48px; }
+.mh-43px {margin-left: 43px; margin-right: 43px;}
 .mt-136px { margin-top: 136px; }
 .mr-8px { margin-right: 8px; }
 .mr-16px { margin-right: 16px; }
@@ -80,9 +83,8 @@
 .mb-8px { margin-bottom: 8px; }
 .mb-12px { margin-bottom: 12px; }
 .mb-24px { margin-bottom: 24px; }
-.m-15px {margin: 15px; }
-.mh-43px {margin-left: 43px; margin-right: 43px;}
 .mb-48px { margin-bottom: 48px; }
+.ml-16px { margin-left: 16px; }
 /* Padding */
 .pv-12px { padding-top: 16px; padding-bottom: 16px; }
 .pv-16px { padding-top: 16px; padding-bottom: 16px; }
@@ -146,20 +148,25 @@
 /* 
 
   STYLING
-  - Background color
+  - Background
   - Border
   - Backdrop filter
+  - Fill
 
 */
-/* Background color */
+/* Background */
 .bc-transparent { background-color: transparent; }
 .bc-white { background-color: white; }
+.bp-center { background-position: center; }
+.bs-cover { background-size: cover; }
 /* Border */
 .b-none { border: none; }
 .bbs-solid { border-bottom-style: solid; }
 .bbw-1px { border-bottom-width: 1px; }
 .bbc-black { border-bottom-color: black; }
 .bbc-light_gray { border-bottom-color: #f2f2f7; }
+/* Fill */
+.f-white { fill: #ffffff; }
 /*
 
   TRANSITIONS
@@ -177,6 +184,15 @@
 /* Transition duration */
 .td-0_15s { transition-duration: 0.15s; }
 .td-0_35s { transition-duration: 0.35s; }
+/*
+
+  PROPERTIES
+  - Opacity
+
+*/
+/* Opacity */
+.o-0 { opacity: 0; }
+.o-1 { opacity: 1; }
 /*
 
   ANIMATION PRESET
