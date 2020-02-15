@@ -1,49 +1,39 @@
 <!DOCTYPE html>
-<html class="font height">
+<html class="h-100pt">
     <head>
         <title>Ecoh</title>
         <link rel="stylesheet" type="text/css" href="./style.css">
+        <link rel="stylesheet" type="text/css" href="./index.css">
         <link rel="stylesheet" type="text/css" href="reset.css">
         <link type="text/css" rel="stylesheet" href="https://fonts.googleapis.com/css?family=Lato:100,400&display=swap">
         <meta name="viewport" content="width=device-width, initial-scale=1">
     </head>
-    <body class="height flexbox flexdirection">
-        <div class=" flexbox center padding-1">
+    <body class="h-100pt d-flex fd-column">
+        <div class=" d-flex ai-center jc-center padding-1">
             <img class="logoimage p-logoimage" src="../ecoh-riojas/images/Gray_ECOH_ic.png" alt="Ecoh logo">
             <img class="logotext" src="../ecoh riojas/images/Gray_ECOH_tx.png" alt="Ecoh logo with text">
             <div>
-                <a class="fontsize-1 fontcolor p-logoheader textdec" href="./nosotros.html">NOSOTROS</a>
-                <a class="fontsize-1 fontcolor p-logoheader textdec" href="./contacto.html">CONTACTO</a>
-                <a class="fontsize-1 fontcolor p-logoheader textdec" href="./proyectos.html">PROYECTOS</a>
+                <a class="fs-12px fc-b7b4b4  pv-5px td-none" href="./nosotros.html">NOSOTROS</a>
+                <a class="fs-12px fc-b7b4b4  pv-5px td-none" href="./contacto.html">CONTACTO</a>
+                <a class="fs-12px fc-b7b4b4  pv-5px td-none" href="./proyectos.html">PROYECTOS</a>
             </div>
         </div>
-        <div class="flexbox flex flexdirection">
-        <div id="googleMaps" style="height:300px; margin: 0 15px 0 15px;"></div>
-            <script>
-                function myMap () {
-                    var myProp = {
-                        center: new google.maps.LatLng(25.663801,-100.374796),
-                        zoom:16,
-                    };
-                    var map = new google.maps.Map(document.getElementById("googleMaps"),myProp);
-                }
-            </script>
-            <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBKj_Zv6mcHbAGVCr25ZAfPvqUJRrlQ_wg&callback=myMap"></script>
-           <div class="padding-2 fontcolor uppercase">
-                Rio Guadalquivir pte. 217<br/>
-                Colonia del Valle<br/>
-                San Pedro Garza Garcia,<br/>
-                N.L. México
-            </div>
-            <div class="padding-2 fontcolor display">
-                <a class="textdec inheritcolor uppercase" href="tel:+52 8185571329"> 81 85571329 </a><br/>
-                <a class="textdec inheritcolor uppercase" href="mailto:cesar@ecoh.mx">cesar@ecoh.mx</a><br/>
+        <div class="d-flex f-1 fd-column">
+            <div style="height: 330px; width 330px;">
+                <div class="d-flex" id="googleMaps" style="height:300px; margin: 0 15px 15px 15px;"></div>
             </div>    
+                    <div class="d-flex p-16px fc-b7b4b4 tt-uppercase">
+                    Rio Guadalquivir pte. 217<br/>
+                    Colonia del Valle<br/>
+                    San Pedro Garza Garcia,<br/>
+                    N.L. México
+                    </div>
+                    <div class="p-16px fc-b7b4b4 d-block">
+                        <a class="td-none fc-inherit tt-uppercase" href="tel:+52 8185571329"> 81 85571329 </a><br/>
+                        <a class="td-none fc-inherit tt-uppercase" href="mailto:cesar@ecoh.mx">cesar@ecoh.mx</a><br/>
+                    </div>    
         </div>
-        <footer class="headerfooter flexbox center">
-                <div class="fontsize-1 fontcolor">INSTAGRAM</div>
-                <img class="logoimagefooter" src="./images/Gray_ECOH_ic.png" alt="Ecoh logo"></img>
-                <div class="fontsize-1 fontcolor"> FACEBOOK</div>
-        </footer>
     </body>
+    <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBKj_Zv6mcHbAGVCr25ZAfPvqUJRrlQ_wg&callback=myMap"></script>
+    <script src="./javascript/contacto.js"></script>
 </html>

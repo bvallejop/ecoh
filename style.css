@@ -3,7 +3,6 @@
 .logoimage {
     height: 35px;
     width: 35px;
-    margin-right: auto;
 }
 
 .logotext {
@@ -16,6 +15,13 @@
     width: 18px;
     margin-left: 43px;
     margin-right: 43px;
+}
+
+.slideshow {
+    height: 100%;
+}
+.margin-15px {
+    margin: 15px;
 }
 
 /* fonts */
@@ -56,8 +62,17 @@
 
 .center {
     justify-content: center;
+    align-items: center
+}
+
+.jc-right{
+    flex-direction: row-reverse;
+}
+.jc-center{justify-content: center;}
+.ai-center {
     align-items: center;
 }
+
 
 /* flex */
 
@@ -108,12 +123,17 @@
     position: absolute;
 }
 
+.space-between {
+    justify-content: space-between;
+}
 
 
 .textdec {
     text-decoration: none;
 }
 
+.w-300px { width: 300px;}
+.h-70px {height:70px;}
 
 .inheritcolor {
     color: inherit;
@@ -124,5 +144,8 @@
 @media (max-width:700px) {
     .logotext{
         display: none;
+        align-content: space-between;
     }
 }
+
+ 
