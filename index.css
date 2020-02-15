@@ -232,12 +232,11 @@
 */
 /* Medium */
 @media screen and (min-width: 480px) {
- .mt-80px-m { margin-top: 80px; }
- .ph-16px-m {padding-left: 50px; padding-right: 50px;}
- .fd-column-ms {display: none;}
- .h-15px-m {display: none;}
- .h-auto-m {width: 700px;}
- 
+  .mt-80px-m { margin-top: 80px; }
+  .ph-16px-m {padding-left: 50px; padding-right: 50px;}
+  .fd-column-ms {display: none;}
+  .h-15px-m {display: none;}
+  .h-auto-m {width: 700px;}
   .d-flex-m { display: flex; }
   .d-block-m { display: block; }
   .d-inline_block-m { display: inline-block; }
@@ -247,7 +246,9 @@
   .oy-scroll-m { overflow-y: scroll; }
   .h-100pt-m { height: 100%; }
   .w-320px-m { width: 320px; }
+  .w-700px-m { width: 700px; } 
   .m-0px-m { margin: 0px; }
+  .mh-auto-m { margin-right: auto; margin-left: auto; }
   .p-0px-m { padding: 0px; }
   .pt-48px-m { padding-top: 48px; }
   .pt-69px-m { padding-top: 69px; }
