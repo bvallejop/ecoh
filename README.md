@@ -14,6 +14,7 @@ Este sitio utiliza [Middleman](https://middlemanapp.com/) y [Contentful](https:/
   ACCESS_TOKEN=67890
   ```
 Reemplazar `12345`/`67890` con los valores reales. Puedes encontrar los valores en Contentful > Settings > API Keys > Sitio Web y agregar las claves de "Space ID" y de "Content Delivery API - access token".
+
 6. Agregar `.env` en `.gitignore`. Si no tienes un archivo de `.gitignore`, favor crear uno y agregar el contendio siguiente:
   ```
   .bundle
