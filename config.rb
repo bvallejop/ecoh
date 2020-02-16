@@ -1,3 +1,6 @@
+# Dotenv
+activate :dotenv
+
 # Activate and configure extensions
 # https://middlemanapp.com/advanced/configuration/#configuring-extensions
 
@@ -44,3 +47,15 @@ page '/*.txt', layout: false
 #   activate :minify_css
 #   activate :minify_javascript
 # end
+
+# Contentful
+activate :contentful do |f|
+  f.space         = { sitio: ENV["SPACE_ID"] }
+  f.access_token  = ENV["ACCESS_TOKEN"]
+  f.cda_query     = { limit: 1000 }
+  f.rebuild_on_webhook = true
+  f.content_types = {
+    proyecto: "proyecto",
+    nosotros: "nosotros",
+  }
+end
