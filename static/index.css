@@ -65,6 +65,7 @@
 .h-70px { height: 70px; }
 .h-300px { height: 300px; }
 .h-100pt { height: 100%; }
+.h-400px { height: 400px; }
 /*
 
   SPACING
@@ -98,6 +99,7 @@
 .pb-0px { padding-bottom: 0px; }
 .pb-16px { padding-bottom: 16px; }
 .pb-24px { padding-bottom: 24px; }
+.pb-4px { padding-bottom: 4px; }
 /*
 
   TYPOGRAPHY
@@ -242,11 +244,14 @@
   .f-1-m { flex: 1; }
   /* Width */
   .w-85px-m { width: 85px; }
+  .w-50pt-m { width: 50%; }
   /* Max width */
   .mw-700px-m { max-width: 700px; }
+  .mw-900px-m { max-width: 900px; }
+  .mw-1200px-m { max-width: 1200px; }
   /* Height */
   .h-15px-m { height: 15px; }
-  .h-500px-m { height: 500px; }
+  .h-400px-m { height: 400px; }
   /* Margin */
   .mt-80px-m { margin-top: 80px; }
   .ph-16px-m {padding-left: 50px; padding-right: 50px;}
@@ -261,6 +266,7 @@
   .w-700px-m { width: 700px; } 
   .m-0px-m { margin: 0px; }
   .mh-auto-m { margin-right: auto; margin-left: auto; }
+  .p-32px-m { padding: 32px; }
   .p-0px-m { padding: 0px; }
   .pt-48px-m { padding-top: 48px; }
   .pt-69px-m { padding-top: 69px; }
@@ -270,6 +276,10 @@
 
 /* Large */
 @media screen and (min-width: 960px) {
+  .d-flex-l { display: flex; }
+  .ai-center-l { align-items: center; }
+  .jc-center-l { justify-content: center; }
+  .f-1-l { flex: 1; }
   .mt-48px-l { margin-top: 48px; }
   .ph-16px-l {padding-left: 80px; padding-right: 80px;}
   .h-auto-l {width: 1000px;}
