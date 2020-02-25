@@ -114,7 +114,6 @@
   - Letter spacing
   - Text decoration
   - Text transform
-  - Text decoration
   - Justify content
   - Align items
 
@@ -143,10 +142,10 @@
 .ls-2_5px { letter-spacing: 2.5px; }
 /* Text decoration */
 .td-underline { text-decoration: underline; }
+.td-none {text-decoration: none;}
 /* Text transform */
 .tt-uppercase { text-transform: uppercase; }
-/* Text decoration */
-.td-none {text-decoration: none;}
+
 
 
 
@@ -155,7 +154,6 @@
   STYLING
   - Background
   - Border
-  - Backdrop filter
   - Fill
 
 */
@@ -243,12 +241,12 @@
   .d-block-m { display: block; }
   .d-inline_block-m { display: inline-block; }
   .d-none-m { display: none; }
-  .fd-column-m { flex-direction: column;}
   /* Flex */
   .ai-center-m { align-items: center; }
   .jc-center-m { justify-content: center; }
   .jc-flex_end-m { justify-content: flex-end; }
   .f-1-m { flex: 1; }
+  .fd-column-m { flex-direction: column;}
   .jc-space_around { justify-content: space-around;}
   /* Width */
   .w-85px-m { width: 85px; }
@@ -308,27 +306,19 @@
   /* Display */
   .d-flex-l { display: flex; }
   /* Flex */
-  .ai-center-l { align-items: center; }
-  .jc-center-l { justify-content: center; }
   .f-1-l { flex: 1; }
   .fd-row-l { flex-direction: row; }
   .fd-column-l { flex-direction: column; }
-
-  .mw-640px-l { max-width: 640px; }
-  .mh-auto-l { margin-right: auto; margin-left: auto; }
-  .w-380px-l { width: 380px; }
-
+  .ai-center-l { align-items: center; }
+  .jc-center-l { justify-content: center; }
   .oy-hidden-l { overflow-y: hidden; }
-
   /* Width */ 
   .w-80pt-l { width: 80%; }
   .w-20pt-l { width: 20%; }
-
-
-
+  .w-380px-l { width: 380px; }
   /* Max width */
   .mw-700px-l { max-width: 700px; }
-  
+  .mw-640px-l { max-width: 640px; }
   /* Height */
   .h-400px-l { height: 400px; }
   .h-auto-l { height: auto; }
@@ -336,6 +326,7 @@
   .ml-4px-l { margin-left: 4px; }
   .mt-48px-l { margin-top: 48px; }
   .mb-0px-l { margin-bottom: 0px; }
+  .mh-auto-l { margin-right: auto; margin-left: auto; }
   /* Padding */
   .ph-16px-l {padding-left: 80px; padding-right: 80px;}
 }
