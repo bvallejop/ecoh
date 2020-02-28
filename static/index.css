@@ -54,7 +54,7 @@
 .w-85px { width: 85px; }
 .w-75pt { width: 75%; }
 .w-18px { width: 18px; }
-.w-100px { widows: 100px; }
+.w-100px { width: 100px; }
 /* Max height */
 .mh-0px { max-height: 0px; }
 /* Height */
@@ -102,7 +102,6 @@
 .pb-16px { padding-bottom: 16px; }
 .pb-24px { padding-bottom: 24px; }
 .pb-4px { padding-bottom: 4px; }
-
 /*
 
   TYPOGRAPHY
@@ -116,8 +115,6 @@
   - Text transform
   - Justify content
   - Align items
-
-  
 
 */
 /* Font family */
@@ -145,10 +142,6 @@
 .td-none { text-decoration: none;}
 /* Text transform */
 .tt-uppercase { text-transform: uppercase; }
-
-
-
-
 /* 
 
   STYLING
@@ -209,7 +202,6 @@
 /* Partial Fade-out */
 .ap-partial_fade_out { opacity: 1; }
 .ap-partial_fade_out:hover { opacity: 0.5 }
-
 /*
 
   FONT FACES
@@ -280,7 +272,6 @@
   .ml-50px-m { margin-left: 50px; }
   .oy-hidden-m { overflow-y: hidden; }
   .oy-scroll-m { overflow-y: scroll; }
-  .mr-100pt-m { margin-right: 100%; }
   .mb-15px-m { margin-bottom: 15px; }
   .ml-4px-m { margin-left: 4px; }
   .mb-0px-m { margin-bottom: 0px; }
@@ -292,16 +283,14 @@
   .pt-69px-m { padding-top: 69px; }
   .pb-96px-m { padding-bottom: 96px; }
   .pl-24px-m { padding-left: 24px; }
-  .ml-20px-m { padding-left: 20px; }
+  .pl-20px-m { padding-left: 20px; }
   .pb-4px-m { padding-bottom: 4px; }
   .pr-32px-m { padding-right: 32px; }
   /* Images */
   .of-cover-m { object-fit: cover; }
 }
-
 /* Large */
 @media screen and (min-width: 960px) {
-
   /* Display */
   .d-flex-l { display: flex; }
   /* Flex */
