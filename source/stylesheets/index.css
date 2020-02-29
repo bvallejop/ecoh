@@ -1,0 +1,320 @@
+/*
+
+  GENERAL
+  - Position
+  - Z index
+  - Display
+  - Flex
+  - Overflow
+  - Object fit
+  - White space
+
+*/
+/* Position */
+.p-fixed { position: fixed; }
+.p-absolute { position: absolute; }
+.p-relative { position: relative; }
+.t-0px { top: 0px; }
+.t--0_5px { top: -0.5px; }
+.r-0px { right: 0px; }
+.l-0px { left: 0px; }
+/* Z index */
+.zi-10 { z-index: 10; }
+/* Display */
+.d-block { display: block; }
+.d-inline_block { display: inline-block; }
+.d-flex { display: flex; }
+.d-none { display: none; }
+/* Flex */
+.fd-column {flex-direction: column; } 
+.ai-center { align-items: center; }
+.jc-space_between { justify-content: space-between; }
+.jc-center { justify-content: center; }
+.f-1 { flex: 1; }
+/* Overflow */
+.oy-hidden { overflow-y: hidden; }
+.ox-scroll { overflow-x: scroll; }
+/* Object fit */
+.of-contain { object-fit: contain; }
+/* White space */
+.ws-nowrap { white-space: nowrap; }
+/*
+
+  SIZING
+  - Width
+  - Max height
+  - Height
+
+*/
+/* Width */
+.w-100pt { width: 100%; }
+.w-300px { width: 300px; }
+.w-18px { width: 18px; }
+.w-35px { width: 35px; }
+.w-85px { width: 85px; }
+.w-75pt { width: 75%; }
+.w-18px { width: 18px; }
+.w-100px { width: 100px; }
+/* Max height */
+.mh-0px { max-height: 0px; }
+/* Height */
+.h-auto { height: auto; }
+.h-15px { height: 15px; }
+.h-18px { height: 18px; }
+.h-35px { height: 35px; }
+.h-67px { height: 67px; }
+.h-70px { height: 70px; }
+.h-300px { height: 300px; }
+.h-100pt { height: 100%; }
+.h-400px { height: 400px; }
+.h-100px { height: 100px; }
+/*
+
+  SPACING
+  - Margin
+  - Padding
+
+*/
+/* Margin */
+.m-15px { margin: 15px; }
+.mv-48px { margin-top: 48px; margin-bottom: 48px; }
+.mh-43px { margin-left: 43px; margin-right: 43px; }
+.mt-136px { margin-top: 136px; }
+.mr-8px { margin-right: 8px; }
+.mr-16px { margin-right: 16px; }
+.mb-4px { margin-bottom: 4px; }
+.mb-8px { margin-bottom: 8px; }
+.mb-12px { margin-bottom: 12px; }
+.mb-24px { margin-bottom: 24px; }
+.mb-48px { margin-bottom: 48px; }
+.ml-16px { margin-left: 16px; }
+/* Padding */
+.pv-12px { padding-top: 16px; padding-bottom: 16px; }
+.pv-16px { padding-top: 16px; padding-bottom: 16px; }
+.ph-24px { padding-right: 24px; padding-left: 24px; }
+.p-16px { padding: 16px; } 
+.pv-5px { padding-left: 5px; padding-right: 5px; }
+.pt-24px { padding-top: 24px; }
+.pr-4px { padding-right: 4px; }
+.pr-16px { padding-right: 16px; }
+.pr-24px { padding-right: 24px; }
+.pb-0px { padding-bottom: 0px; }
+.pb-16px { padding-bottom: 16px; }
+.pb-24px { padding-bottom: 24px; }
+.pb-4px { padding-bottom: 4px; }
+/*
+
+  TYPOGRAPHY
+  - Font family
+  - Font weight
+  - Font size
+  - Font color
+  - Line height
+  - Letter spacing
+  - Text decoration
+  - Text transform
+  - Justify content
+  - Align items
+
+*/
+/* Font family */
+.ff-apercu_pro { font-family: "Apercu Pro", sans-serif; }
+/* Font weight */
+.fw-bold { font-weight: bold; }
+/* Font size */
+.fs-12px { font-size: 12px; }
+.fs-14px { font-size: 14px; }
+.fs-16px { font-size: 16px; }
+.fs-18px { font-size: 18px; }
+/* Font color */
+.fc-b7b4b4 { color: #B7B4B4; }
+.fc-inherit { color: inherit; }
+/* Line height */
+.lh-16px { line-height: 16px; }
+.lh-20px { line-height: 20px; }
+.lh-1_5 { line-height: 1.5; }
+/* Letter spacing */
+.ls-0_5px { letter-spacing: 0.5px; }
+.ls-1px { letter-spacing: 1px; }
+.ls-2_5px { letter-spacing: 2.5px; }
+/* Text decoration */
+.td-underline { text-decoration: underline; }
+.td-none { text-decoration: none;}
+/* Text transform */
+.tt-uppercase { text-transform: uppercase; }
+/* 
+
+  STYLING
+  - Background
+  - Border
+  - Fill
+
+*/
+/* Background */
+.bc-transparent { background-color: transparent; }
+.bc-white { background-color: white; }
+.bp-center { background-position: center; }
+.bs-cover { background-size: cover; }
+/* Border */
+.b-none { border: none; }
+.bbs-solid { border-bottom-style: solid; }
+.bbw-1px { border-bottom-width: 1px; }
+.bbc-black { border-bottom-color: black; }
+.bbc-light_gray { border-bottom-color: #f2f2f7; }
+/* Fill */
+.f-white { fill: #ffffff; }
+/*
+
+  TRANSITIONS
+  - Transition property
+  - Transition timing function
+  - Transition duration
+
+*/
+/* Transition property */
+.tp-max_height { transition-property: max-height; }
+.tp-opacity { transition-property: opacity; }
+/* Transition timing function */
+.ttf-ease_in_out { transition-timing-function: ease-in-out; }
+.ttf-cubic_bezier { transition-timing-function: cubic-bezier(0.785, 0.135, 0.15, 0.86); }
+/* Transition duration */
+.td-0_15s { transition-duration: 0.15s; }
+.td-0_35s { transition-duration: 0.35s; }
+/*
+
+  PROPERTIES
+  - Opacity
+
+*/
+/* Opacity */
+.o-0 { opacity: 0; }
+.o-1 { opacity: 1; }
+/*
+
+  ANIMATION PRESET
+  - Partial Fade-in
+  - Partial Fade-out
+
+*/
+/* Partial Fade-in */
+.ap-partial_fade_in { opacity: 0.5; }
+.ap-partial_fade_in:hover { opacity: 1; }
+/* Partial Fade-out */
+.ap-partial_fade_out { opacity: 1; }
+.ap-partial_fade_out:hover { opacity: 0.5 }
+/*
+
+  MEDIA QUERIES
+  - Medium
+  - Large
+
+*/
+/* Medium */
+@media screen and (min-width: 600px) {
+  /* Display */
+  .d-flex-m { display: flex; }
+  .d-none-m { display: none; }
+  .d-block-m { display: block; }
+  .d-inline_block-m { display: inline-block; }
+  /* Flex */
+  .ai-center-m { align-items: center; }
+  .jc-center-m { justify-content: center; }
+  .jc-flex_end-m { justify-content: flex-end; }
+  .f-1-m { flex: 1; }
+  .fd-column-m { flex-direction: column; }
+  .jc-space_around { justify-content: space-around; }
+  /* Width */
+  .w-85px-m { width: 85px; }
+  .w-50pt-m { width: 50%; }
+  .w-200px-m { width: 200px; }
+  .w-600px-m { width: 600px; }
+  .w-320px-m { width: 320px; }
+  .w-250px-m { width: 250px; }
+  .w-700px-m { width: 700px; } 
+  .w-400px-m { width: 400px; } 
+  .w-80pt-m { width: 80%; }
+  .w-20pt-m { width: 20%; }
+  .w-380px-m { width: 380px; }
+  /* Max width */
+  .mw-700px-m { max-width: 700px; }
+  .mw-900px-m { max-width: 900px; }
+  .mw-1200px-m { max-width: 1200px; }
+  .mw-100pt-m { max-width: 100%; }
+  /* Height */
+  .h-15px-m { height: 15px; }
+  .h-200px-m { height: 200px; }
+  .h-400px-m { height: 400px; }
+  .h-600px-m { height: 600px; }
+  .h-auto-m { width: 700px; }
+  .h-100pt-m { height: 100%; }
+  .h-100px-m { height: 100px; }
+  .h-300px-m { height: 300px; }
+  /* Margin */
+  .mt-80px-m { margin-top: 80px; }
+  .m-0px-m { margin: 0px; }
+  .mh-auto-m { margin-right: auto; margin-left: auto; }
+  .ml-50px-m { margin-left: 50px; }
+  .oy-hidden-m { overflow-y: hidden; }
+  .oy-scroll-m { overflow-y: scroll; }
+  .mb-15px-m { margin-bottom: 15px; }
+  .ml-4px-m { margin-left: 4px; }
+  .mb-0px-m { margin-bottom: 0px; }
+  /* Padding */
+  .ph-16px-m {padding-left: 50px; padding-right: 50px; }
+  .p-32px-m { padding: 32px; }
+  .p-0px-m { padding: 0px; }
+  .pt-48px-m { padding-top: 48px; }
+  .pt-69px-m { padding-top: 69px; }
+  .pb-96px-m { padding-bottom: 96px; }
+  .pl-24px-m { padding-left: 24px; }
+  .pl-20px-m { padding-left: 20px; }
+  .pb-4px-m { padding-bottom: 4px; }
+  .pr-32px-m { padding-right: 32px; }
+  /* Images */
+  .of-cover-m { object-fit: cover; }
+}
+/* Large */
+@media screen and (min-width: 960px) {
+  /* Display */
+  .d-flex-l { display: flex; }
+  /* Flex */
+  .f-1-l { flex: 1; }
+  .fd-row-l { flex-direction: row; }
+  .fd-column-l { flex-direction: column; }
+  .ai-center-l { align-items: center; }
+  .jc-center-l { justify-content: center; }
+  .oy-hidden-l { overflow-y: hidden; }
+  /* Width */ 
+  .w-80pt-l { width: 80%; }
+  .w-20pt-l { width: 20%; }
+  .w-380px-l { width: 380px; }
+  /* Max width */
+  .mw-700px-l { max-width: 700px; }
+  .mw-640px-l { max-width: 640px; }
+  /* Height */
+  .h-400px-l { height: 400px; }
+  .h-auto-l { height: auto; }
+  /* Margin */
+  .ml-4px-l { margin-left: 4px; }
+  .mt-48px-l { margin-top: 48px; }
+  .mb-0px-l { margin-bottom: 0px; }
+  .mh-auto-l { margin-right: auto; margin-left: auto; }
+  /* Padding */
+  .ph-16px-l { padding-left: 80px; padding-right: 80px; }
+}
+/*
+
+  FONT FACES
+  - Apercu Pro
+
+*/
+/* Apercu Pro */
+@font-face {
+  font-family: 'Apercu Pro';
+  src: url('../tipografias/Apercu-Pro.eot');
+  src: url('../tipografias/Apercu-Pro.eot?#iefix') format('embedded-opentype'),
+    url('../tipografias/Apercu-Pro.woff2') format('woff2'),
+    url('../tipografias/Apercu-Pro.woff') format('woff'),
+    url('../tipografias/Apercu-Pro.ttf') format('truetype'),
+  url('../tipografias/Apercu-Pro.svg#ApercuPro') format('svg');
+}
