@@ -288,6 +288,7 @@
   .pr-32px-m { padding-right: 32px; }
   /* Images */
   .of-cover-m { object-fit: cover; }
+  img:hover { opacity: 0.5; }
 }
 /* Large */
 @media screen and (min-width: 960px) {
