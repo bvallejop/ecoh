@@ -9,7 +9,6 @@
     <title><%= current_page.data.title || "Middleman" %></title>
     <%= stylesheet_link_tag "reset" %>
     <%= stylesheet_link_tag "index" %>
-    <%= javascript_include_tag "site" %>
   </head>
   <body class="h-100pt d-flex fd-column">
     <%= partial "partials/header" %>
@@ -17,5 +16,6 @@
       <%= yield %>
     </main>
     <%= partial "partials/footer" %>
+    <%= javascript_include_tag "index" %>
   </body>
 </html>

@@ -1,7 +1,32 @@
----
-title: Welcome to Middleman
----
-
-<div>
-  <p>Bernardo</p>
+<%# CONFIG %>
+<% imagenes_galeria = Array.new %>
+<% data.sitio.proyecto.each do |id, proyecto| %>
+  <% imagenes_galeria.push(proyecto.imagen_de_inicio.url) %>
+<% end %>
+<div class="p-relative h-300px f-1 mw-700px-m h-400px-m">
+  <div id="galeria-imagenes" class="p-relative h-300px h-400px-m">
+    <% imagenes_galeria.each_with_index do |url, i| %>
+      <div class="p-absolute w-100pt h-100pt bp-center bs-cover tp-opacity ttf-cubic_bezier td-0_35s <%= i == 0 ? "o-1" : "o-0" %>" style="background-image: url(https:<%= url %>);"></div>
+    <% end %>
+  </div>
+  <% if imagenes_galeria.length > 1 %>
+    <div class="p-absolute t-0px d-flex ai-center jc-space_between w-100pt h-300px h-400px-m">
+      <svg id="boton-imagen-previa" class="c-pointer ml-16px" width="24" height="24" viewBox="0 0 24 24">
+        <path
+            class="f-white"
+            fill-rule="evenodd"
+            clip-rule="evenodd"
+            d="M10.0607 12L15.5303 6.53033L14.4697 5.46967L7.93933 12L14.4697 18.5303L15.5303 17.4697L10.0607 12Z"
+        />
+      </svg>
+      <svg id="boton-imagen-proxima" class="c-pointer mr-16px" width="24" height="24" viewBox="0 0 24 24">
+        <path
+            class="f-white"
+            fill-rule="evenodd"
+            clip-rule="evenodd"
+            d="M9.53033 5.46967L16.0607 12L9.53033 18.5303L8.46967 17.4697L13.9393 12L8.46967 6.53033L9.53033 5.46967Z"
+        />
+      </svg>
+    </div>
+  <% end %>
 </div>
