@@ -8,6 +8,7 @@
   - Overflow
   - Object fit
   - White space
+  - Cursor
 
 */
 /* Position */
@@ -38,6 +39,8 @@
 .of-contain { object-fit: contain; }
 /* White space */
 .ws-nowrap { white-space: nowrap; }
+/* Cursor */
+.c-pointer { cursor: pointer; }
 /*
 
   SIZING
