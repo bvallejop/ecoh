@@ -17,7 +17,8 @@ page '/*.json', layout: false
 page '/*.txt', layout: false
 
 # With alternative layout
-page '/index.html', :layout => "index"
+page '/index.html', :layout => "principal"
+page '/contacto.html', :layout => "principal"
 
 # Proxy pages
 # https://middlemanapp.com/advanced/dynamic-pages/
