@@ -19,6 +19,7 @@ page '/*.txt', layout: false
 # With alternative layout
 page '/index.html', :layout => "principal"
 page '/contacto.html', :layout => "principal"
+page '/nosotros.html', :layout => "principal"
 
 # Proxy pages
 # https://middlemanapp.com/advanced/dynamic-pages/
