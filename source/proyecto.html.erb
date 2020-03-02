@@ -1,3 +1,73 @@
 <%# Config %>
 <% proyecto = locals[:proyecto] %>
-<div><%= proyecto.nombre %></div>
+<main class="mb-48px pt-24px ph-24px oy-hidden-m d-flex-m h-100pt-m m-0px-m p-0px-m">
+  <div class="oy-scroll-m h-100pt-m w-380px-m pt-69px-m pl-24px-m">
+    <header>
+      <h1 class="mb-12px ff-apercu_pro fw-bold fs-12px tt-uppercase ls-1px">
+        <%= proyecto.nombre %>
+      </h1>
+      <div class="mb-8px">
+        <h3 class="mb-4px pr-4px ff-apercu_pro fs-12px tt-uppercase lh-16px ls-1px td-underline d-inline_block-m m-0px-m">
+          Superficie construida
+        </h3>
+        <h3 class="ff-apercu_pro fs-12px tt-uppercase lh-16px ls-1px d-inline_block-m">
+          <%= superficie_construida %>
+        </h3>
+      </div>
+      <div class="mb-8px">
+        <h3 class="mb-4px pr-4px ff-apercu_pro fs-12px tt-uppercase lh-16px ls-1px td-underline d-inline_block-m m-0px-m">
+          Ubicación
+        </h3>
+        <h3 class="ff-apercu_pro fs-12px tt-uppercase lh-16px ls-1px d-inline_block-m">
+          <%= proyecto.ubicacion %>
+        </h3>
+      </div>
+      <div class="mb-8px">
+        <h3 class="mb-4px pr-4px ff-apercu_pro fs-12px tt-uppercase lh-16px ls-1px td-underline d-inline_block-m m-0px-m">
+          Año
+        </h3>
+        <h3 class="ff-apercu_pro fs-12px tt-uppercase lh-16px ls-1px d-inline_block-m">
+          <%= proyeco.ano %>
+        </h3>
+      </div>
+    </header>
+    <button id="boton-detalles" class="d-inline_block pt-8px pr-16px pb-16px ff-apercu_pro fw-bold fs-16px tt-uppercase bc-transparent b-none tp-opacity ttf-ease_in_out td-0_15s ap-partial_fade_out">+</button>
+    <div id="contenido-detalles" class="oy-hidden tp-max_height ttf-ease_in_out td-0_35s">
+      <% proyecto.detalles.each do |detalle| %>
+        <p class="pb-24px ff-apercu_pro fs-14px lh-20px ls-0_5px" data-detalle>
+          <%= detalle.texto %>
+        </p>
+      <% end %>
+    </div>
+    <div class="d-none d-block-m">
+      <% data.sitio.proyecto.each do |id, menu_proyecto| %>
+        <% if id != proyecto.id %>
+          <p class="mb-12px ff-apercu_pro fs-12px tt-uppercase ls-1px tp-opacity ttf-ease_in_out td-0_15s ap-partial_fade_in">
+            <%= menu_proyecto.nombre %>
+          </p>
+        <% end %>
+      <% end %>
+    </div>
+  </div>
+  <div class="d-flex-m oy-scroll-m oy-hidden-l jc-center-m f-1-m h-100pt-m">
+    <div class="d-flex-m fd-column-m fd-row-l pt-69px-m mw-700px-l pr-32px-m">
+      <div class="w-80pt-l mb-24px mb-0px-l">
+        <img id="imagen1" class="d-block w-100pt h-400px-l of-cover-m d-none d-flex-l" src="https://images.unsplash.com/photo-1488972685288-c3fd157d7c7a?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80" />
+      </div>
+      <div class="w-20pt-l ml-4px-l d-flex-l fd-column-l h-400px-l pb-24px"> 
+        <div class="f-1-l pb-4px-m mb-24px mb-0px-l">
+          <img id="imagen2" class="d-block w-100pt of-cover-m h-100pt-m" src="https://images.unsplash.com/photo-1488972685288-c3fd157d7c7a?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80" />
+        </div>
+        <div class="f-1-l pb-4px-m mb-24px mb-0px-l">
+          <img id="imagen3" class="d-block w-100pt of-cover-m h-100pt-m" src="https://images.unsplash.com/photo-1448890372448-691670059ce8?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1500&q=80" />
+        </div>
+        <div class="f-1-l pb-4px-m mb-24px mb-0px-l">
+          <img id="imagen4" class="d-block w-100pt of-cover-m h-100pt-m" src="https://images.unsplash.com/photo-1523257764550-05242a9655da?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1500&q=80" />
+        </div>
+        <div class="f-1-l">
+          <img id="imagen5" class="d-block w-100pt of-cover-m h-100pt-m" src="https://images.unsplash.com/photo-1447422285000-7b54b1969b7b?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=80" />
+        </div>
+      </div>
+    </div>
+  </div>
+</main>

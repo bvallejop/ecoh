@@ -2,7 +2,7 @@
 :id: 2QTT5Qt1zbPsVP0f8htA23
 :_meta:
   :content_type_id: proyecto
-  :updated_at: '2020-02-16T16:14:01+00:00'
+  :updated_at: '2020-03-02T12:31:54+00:00'
   :created_at: '2020-02-16T16:09:52+00:00'
   :id: 2QTT5Qt1zbPsVP0f8htA23
 :imagen_de_inicio:
@@ -17,10 +17,26 @@
 :superficie_construida: 35,000 M2
 :ubicacion: Picadilly Circus
 :ano: 2049
-:detalles: |-
-  Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem.
-
-  Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur?
+:detalles:
+- :id: 5cMUkETVY299A1gtP6yiCw
+  :_meta:
+    :content_type_id: texto
+    :updated_at: '2020-03-02T12:31:39+00:00'
+    :created_at: '2020-03-02T12:31:39+00:00'
+    :id: 5cMUkETVY299A1gtP6yiCw
+  :texto: Basado en los ejes de composición lineales que atraviesan todo el predio,
+    se estructuran tres volumenes complementados con uno al final generando remates
+    visuales y recorridos que estan delimitados por areas publicas y privadas.
+- :id: 4KDScUT33IiLzgaNUVvfcg
+  :_meta:
+    :content_type_id: texto
+    :updated_at: '2020-03-02T12:31:49+00:00'
+    :created_at: '2020-03-02T12:31:49+00:00'
+    :id: 4KDScUT33IiLzgaNUVvfcg
+  :texto: El proyecto se estudio a partir de tres niveles de vivienda en donde todas
+    las casas se componen de tipologias unicas y de areas verdes privadas generando
+    un conjunto habitacional con una escala proporcional al contexto del pueblo de
+    Tizapan.
 :imagenes:
 - :title: Londres 1
   :description: Lorem ipsum dolor londres 1
