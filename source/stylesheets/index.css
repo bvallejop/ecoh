@@ -130,6 +130,8 @@
 .fs-16px { font-size: 16px; }
 .fs-18px { font-size: 18px; }
 /* Font color */
+.fc-negro { color: #000000; }
+.fc-gris { color: #b7b4b4; }
 .fc-b7b4b4 { color: #B7B4B4; }
 .fc-inherit { color: inherit; }
 /* Line height */
@@ -279,6 +281,7 @@
 /* Large */
 @media screen and (min-width: 960px) {
   /* Display */
+  .d-block-l { display: block; }
   .d-flex-l { display: flex; }
   /* Flex */
   .f-1-l { flex: 1; }
@@ -290,11 +293,13 @@
   /* Width */ 
   .w-80pt-l { width: 80%; }
   .w-20pt-l { width: 20%; }
+  .w-100pt-l { width: 100%; }
   .w-380px-l { width: 380px; }
   /* Max width */
   .mw-700px-l { max-width: 700px; }
   .mw-640px-l { max-width: 640px; }
   /* Height */
+  .h-100pt-l { height: 100%; }
   .h-400px-l { height: 400px; }
   .h-auto-l { height: auto; }
   /* Margin */
@@ -304,6 +309,9 @@
   .mh-auto-l { margin-right: auto; margin-left: auto; }
   /* Padding */
   .ph-16px-l { padding-left: 80px; padding-right: 80px; }
+  /* Opacity */
+  .o-35pt-l { opacity: 35%; }
+  .o-100pt-l { opacity: 100%; }
 }
 /*
 
