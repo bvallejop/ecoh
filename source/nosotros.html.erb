@@ -1,0 +1,14 @@
+<%# CONFIG %>
+<% parrafos = Array.new %>
+<% data.sitio.nosotros.each do |id, nosotros| %>
+  <% nosotros.parrafos.each do |parrafo| %>
+    <% parrafos.push(parrafo.texto) %>
+  <% end %>
+<% end %>
+<div class="f-1 mw-1200px-m">
+    <% parrafos.each_with_index do |texto, i| %>
+      <div class="m-15px ff-apercu_pro fs-18px ls-2_5px tt-uppercase fc-b7b4b4 lh-1_5 ph-16px-m ph-16px-l">
+        <%= texto %>
+      </div>
+    <% end %>
+</div>

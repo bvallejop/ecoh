@@ -1,21 +1,21 @@
 <!doctype html>
-<html class="h-100pt">
+<html class="h-100pt-m">
   <head>
     <meta charset="utf-8">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
     <meta name="viewport"
           content="width=device-width, initial-scale=1, shrink-to-fit=no">
-    <!-- Use the title from a page's frontmatter if it has one -->
-    <title><%= current_page.data.title || "Middleman" %></title>
+    <title>Ecoh | <%= locals[:proyecto].nombre %></title>
     <%= stylesheet_link_tag "reset" %>
     <%= stylesheet_link_tag "index" %>
   </head>
-  <body class="h-100pt d-flex fd-column">
+  <body class="oy-hidden-m h-100pt-m m-0px-m p-0px-m">
     <%= partial "partials/header" %>
-    <main class="d-flex ai-center f-1 jc-center-m">
+    <%= partial "partials/proyectos" %>
+    <main class="mb-48px pt-24px ph-24px oy-hidden-m d-flex-m h-100pt-m m-0px-m p-0px-m">
       <%= yield %>
     </main>
     <%= partial "partials/footer" %>
-    <%= javascript_include_tag "index" %>
+    <%= javascript_include_tag "menu_proyectos" %>
   </body>
 </html>

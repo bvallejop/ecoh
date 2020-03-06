@@ -1,0 +1,21 @@
+<!doctype html>
+<html class="h-100pt">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="x-ua-compatible" content="ie=edge">
+    <meta name="viewport"
+          content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <title>Ecoh <%= current_page.data.title %></title>
+    <%= stylesheet_link_tag "reset" %>
+    <%= stylesheet_link_tag "index" %>
+  </head>
+  <body class="h-100pt d-flex fd-column">
+    <%= partial "partials/header" %>
+    <%= partial "partials/proyectos" %>
+    <main class="d-flex ai-center f-1 jc-center-m">
+      <%= yield %>
+    </main>
+    <%= partial "partials/footer" %>
+    <%= javascript_include_tag "menu_proyectos" %>
+  </body>
+</html>

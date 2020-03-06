@@ -4,4 +4,3 @@
 .sass-cache
 build/
 .env
-data/

@@ -1,0 +1,86 @@
+---
+:id: 2QTT5Qt1zbPsVP0f8htA23
+:_meta:
+  :content_type_id: proyecto
+  :updated_at: '2020-03-02T12:31:54+00:00'
+  :created_at: '2020-02-16T16:09:52+00:00'
+  :id: 2QTT5Qt1zbPsVP0f8htA23
+:imagen_de_inicio:
+  :title: Londres 1
+  :description: Lorem ipsum dolor londres 1
+  :url: "//images.ctfassets.net/5othgs0vvum9/2yjbRnKYOwwefNm0WB8c0c/492b8f3076a471e89287271019bc9aa4/photo-1505761671935-60b3a7427bad"
+  :_meta:
+    :updated_at: '2020-02-16T16:03:23+00:00'
+    :created_at: '2020-02-16T16:02:02+00:00'
+    :id: 2yjbRnKYOwwefNm0WB8c0c
+:nombre: Londres
+:superficie_construida: 35,000 M2
+:ubicacion: Picadilly Circus
+:ano: 2049
+:detalles:
+- :id: 5cMUkETVY299A1gtP6yiCw
+  :_meta:
+    :content_type_id: texto
+    :updated_at: '2020-03-02T12:31:39+00:00'
+    :created_at: '2020-03-02T12:31:39+00:00'
+    :id: 5cMUkETVY299A1gtP6yiCw
+  :texto: Basado en los ejes de composición lineales que atraviesan todo el predio,
+    se estructuran tres volumenes complementados con uno al final generando remates
+    visuales y recorridos que estan delimitados por areas publicas y privadas.
+- :id: 4KDScUT33IiLzgaNUVvfcg
+  :_meta:
+    :content_type_id: texto
+    :updated_at: '2020-03-02T12:31:49+00:00'
+    :created_at: '2020-03-02T12:31:49+00:00'
+    :id: 4KDScUT33IiLzgaNUVvfcg
+  :texto: El proyecto se estudio a partir de tres niveles de vivienda en donde todas
+    las casas se componen de tipologias unicas y de areas verdes privadas generando
+    un conjunto habitacional con una escala proporcional al contexto del pueblo de
+    Tizapan.
+:imagenes:
+- :title: Londres 1
+  :description: Lorem ipsum dolor londres 1
+  :url: "//images.ctfassets.net/5othgs0vvum9/2yjbRnKYOwwefNm0WB8c0c/492b8f3076a471e89287271019bc9aa4/photo-1505761671935-60b3a7427bad"
+  :_meta:
+    :updated_at: '2020-02-16T16:03:23+00:00'
+    :created_at: '2020-02-16T16:02:02+00:00'
+    :id: 2yjbRnKYOwwefNm0WB8c0c
+- :title: Londres 2
+  :description: Lorem ipsum londres 2
+  :url: "//images.ctfassets.net/5othgs0vvum9/6Y3xIt7mQ83ooleSJKwj1z/9a33cc212315fbc533e34c6ac852aee3/photo-1513635269975-59663e0ac1ad"
+  :_meta:
+    :updated_at: '2020-02-16T16:02:54+00:00'
+    :created_at: '2020-02-16T16:02:54+00:00'
+    :id: 6Y3xIt7mQ83ooleSJKwj1z
+- :title: Londres 3
+  :description: Lorem ipsum dolor ad astra per londres 3
+  :url: "//images.ctfassets.net/5othgs0vvum9/4TlFQhaZS8qhg3it0rzKo/02785b94036ff39f230d03ddb586e060/photo-1506501139174-099022df5260"
+  :_meta:
+    :updated_at: '2020-02-16T16:04:17+00:00'
+    :created_at: '2020-02-16T16:04:17+00:00'
+    :id: 4TlFQhaZS8qhg3it0rzKo
+- :title: Londres 4
+  :description: Lorem ipsum ad astra per aspera londres 4
+  :url: "//images.ctfassets.net/5othgs0vvum9/4XA4YqTAsekHeNIa2lnI2s/8f4eb712d20f2a540ddfa7ee5a9d405f/photo-1480449649358-ee14c6ee0b17"
+  :_meta:
+    :updated_at: '2020-02-16T16:05:01+00:00'
+    :created_at: '2020-02-16T16:05:01+00:00'
+    :id: 4XA4YqTAsekHeNIa2lnI2s
+:seo:
+  :id: 5lrdb90NKK4B2nedCf4sqx
+  :_meta:
+    :content_type_id: seo
+    :updated_at: '2020-02-16T16:06:14+00:00'
+    :created_at: '2020-02-16T16:06:14+00:00'
+    :id: 5lrdb90NKK4B2nedCf4sqx
+  :titulo: Ecoh - Londres 2049
+  :descripcion: Lorem ipsum dolor sit amet consectetur ad astra per aspera osseus
+    londres
+  :imagen:
+    :title: Londres 1
+    :description: Lorem ipsum dolor londres 1
+    :url: "//images.ctfassets.net/5othgs0vvum9/2yjbRnKYOwwefNm0WB8c0c/492b8f3076a471e89287271019bc9aa4/photo-1505761671935-60b3a7427bad"
+    :_meta:
+      :updated_at: '2020-02-16T16:03:23+00:00'
+      :created_at: '2020-02-16T16:02:02+00:00'
+      :id: 2yjbRnKYOwwefNm0WB8c0c
