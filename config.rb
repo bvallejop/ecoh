@@ -21,7 +21,7 @@ page '/*.json', layout: false
 page '/*.txt', layout: false
 
 # With alternative layout
-page '/index.html', :layout => "principal"
+page '/index.html', :layout => "inicio"
 page '/contacto.html', :layout => "principal"
 page '/nosotros.html', :layout => "principal"
 page '/proyecto.html', :layout => "proyectos"
