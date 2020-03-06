@@ -277,6 +277,8 @@
   .oy-hidden-m { overflow-y: hidden; }
   .oy-scroll-m { overflow-y: scroll; }
   .mb-15px-m { margin-bottom: 15px; }
+  .mr-16px-m { margin-right: 16px; }
+  .ml-16px-m { margin-right: 16px; }
   .ml-4px-m { margin-left: 4px; }
   .mb-0px-m { margin-bottom: 0px; }
   /* Padding */
