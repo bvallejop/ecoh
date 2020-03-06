@@ -11,9 +11,11 @@
   </head>
   <body class="h-100pt d-flex fd-column">
     <%= partial "partials/header" %>
+    <%= partial "partials/proyectos" %>
     <main class="d-flex ai-center f-1 jc-center-m">
       <%= yield %>
     </main>
     <%= partial "partials/footer" %>
+    <%= javascript_include_tag "menu_proyectos" %>
   </body>
 </html>

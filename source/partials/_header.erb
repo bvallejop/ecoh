@@ -1,20 +1,29 @@
 <%# CONFIG %>
-<% url_proyecto = "./proyectos/" %>
+<% url_proyecto = "/proyectos/" %>
 <% count = 0 %>
 <% data.sitio.proyecto.each do |id, proyecto| %>
-    <% url_proyecto += "#{id}/index.html" %>
+    <% url_proyecto += "#{id}" %>
     <% break %>
 <% end %>
 <div class="d-flex jc-space_between p-16px p-32px-m">
-    <div class="d-flex ai-center f-1-m">
-        <img class="w-35px h-35px" src="../images/logo-icono.png" alt="Ecoh logo">  
-    </div>
-    <div class="d-none d-flex-l ai-center-l jc-center-l f-1-l">
-        <img class="h-15px-m w-85px-m" src="../images/logo-texto.png" alt="Ecoh logo with text">
-    </div>      
+    <a class="d-flex ai-center f-1-m" href="/">
+        <img class="w-35px h-35px" src="<%= image_path("logo-icono.png") %>" alt="Ecoh logo">  
+    </a>
+    <a class="d-none d-flex-l ai-center-l jc-center-l f-1-l" href="/">
+        <img class="h-15px-m w-85px-m" src="<%= image_path("logo-texto.png") %>" alt="Ecoh logo with text">
+    </a>      
     <div class="d-flex ai-center jc-flex_end-m f-1-m">
-        <a class="ff-apercu_pro fs-12px fc-b7b4b4 pv-5px ls-1px tt-uppercase td-none" href="./nosotros.html">Nosotros</a>
-        <a class="ff-apercu_pro fs-12px fc-b7b4b4 pv-5px ls-1px tt-uppercase td-none" href="./contacto.html">Contacto</a>
-        <a class="ff-apercu_pro fs-12px fc-b7b4b4 pv-5px ls-1px tt-uppercase td-none" href="<%= url_proyecto %>">Proyectos</a>         
+        <a class="ff-apercu_pro fs-12px fc-b7b4b4 pv-5px ls-1px tt-uppercase td-none" href="/nosotros">
+            Nosotros
+        </a>
+        <a class="ff-apercu_pro fs-12px fc-b7b4b4 pv-5px ls-1px tt-uppercase td-none" href="/contacto">
+            Contacto
+        </a>
+        <p id="boton-menu-proyectos" class="d-block d-none-m ff-apercu_pro fs-12px fc-b7b4b4 pv-5px ls-1px tt-uppercase c-pointer">
+            Proyectos
+        </p>
+        <a class="d-none d-block-m ff-apercu_pro fs-12px fc-b7b4b4 pv-5px ls-1px tt-uppercase td-none" href="<%= url_proyecto %>">
+            Proyectos
+        </a>
     </div>
 </div>

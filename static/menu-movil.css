@@ -127,7 +127,7 @@
 /* Transition property */
 .tp-max_height { transition-property: max-height; }
 .tp-opacity { transition-property: opacity; }
-.tp-transform { transition-property: transform; } 
+.tp-transform { transition-property: transform; }
 /* Transition timing function */
 .ttf-ease_in_out { transition-timing-function: ease-in-out; }
 .ttf-cubic_bezier { transition-timing-function: cubic-bezier(0.785, 0.135, 0.15, 0.86); }
