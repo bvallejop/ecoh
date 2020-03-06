@@ -21,7 +21,7 @@
 .b-0px { bottom: 0px; }
 .l-0px { left: 0px; }
 /* Z index */
-.zi-10 { z-index: 10; }
+.zi-1000 { z-index: 1000; }
 /* Display */
 .d-block { display: block; }
 .d-inline_block { display: inline-block; }
