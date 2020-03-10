@@ -132,6 +132,8 @@
 /* Font weight */
 .fw-bold { font-weight: bold; }
 /* Font size */
+.fs-10px { font-size: 10px; }
+.fs-11px { font-size: 11px; }
 .fs-12px { font-size: 12px; }
 .fs-14px { font-size: 14px; }
 .fs-16px { font-size: 16px; }
