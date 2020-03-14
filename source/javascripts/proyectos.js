@@ -53,4 +53,3 @@ const definirEstadoDetalles = () => {
 };
 
 $botonDetalles.addEventListener("click", definirEstadoDetalles, false);
-$botonDetalles.addEventListener("touchstart", definirEstadoDetalles, false);
