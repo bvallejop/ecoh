@@ -44,14 +44,13 @@ var alturaMaximaDetalles = `${$contenedorDetalles.clientHeight}px`;
 
 $contenedorDetalles.style.maxHeight = "0px";
 
-$botonDetalles.addEventListener("click", () => {
-  if ($contenedorDetalles.style.maxHeight !== alturaMaximaDetalles) {
+const definirEstadoDetalles = () => {
+  if ($contenedorDetalles.style.maxHeight === "0px") {
     $contenedorDetalles.style.maxHeight = alturaMaximaDetalles;
   } else {
     $contenedorDetalles.style.maxHeight = "0px";
   }
-});
+};
 
-window.addEventListener("resize", function() {
-  alturaMaximaDetalles = `${$contenedorDetalles.clientHeight}px`;
-});
+$botonDetalles.addEventListener("click", definirEstadoDetalles, false);
+$botonDetalles.addEventListener("touchstart", definirEstadoDetalles, false);
