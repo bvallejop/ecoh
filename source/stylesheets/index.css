@@ -288,7 +288,8 @@
   .p-32px-m { padding: 32px; }
   .p-0px-m { padding: 0px; }
   .pv-0px-m { padding-top: 0px; padding-bottom: 0px; }
-  .ph-16px-m {padding-left: 50px; padding-right: 50px; }
+  .ph-16px-m { padding-right: 50px; padding-left: 50px; }
+  .ph-24px-m { padding-right: 24px; padding-left: 24px; }
   .pt-48px-m { padding-top: 48px; }
   .pt-69px-m { padding-top: 69px; }
   .pb-96px-m { padding-bottom: 96px; }
