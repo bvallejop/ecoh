@@ -1,7 +1,7 @@
 const gulp = require("gulp");
 const htmlmin = require("gulp-htmlmin");
 const cssmin = require("gulp-cssmin");
-const jsmin = require("gulp-uglify");
+const jsmin = require("gulp-terser");
 const gzip = require("gulp-gzip");
 
 function minifyHtml(cb) {
