@@ -5,17 +5,8 @@
     <meta http-equiv="x-ua-compatible" content="ie=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <% proyecto = locals[:proyecto] %>
-    <title>Ecoh | <%= proyecto.nombre %></title>
-    <meta name="description" content="<%= proyecto.seo.descripcion %>">
-    <meta property="og:title" content="Ecoh | <%= proyecto.nombre %>">
-    <meta property="og:description" content="<%= proyecto.seo.descripcion %>">
-    <meta property="og:type" content="website">
-    <meta property="og:url" content="https://www.ecoh.mx/proyectos/<%= proyecto.id %>">
-    <meta property="og:image" content="https://www.ecoh.mx/images/meta/facebook.jpg">
-    <meta name="twitter:card" content="summary">
-    <meta name="twitter:title" content="Ecoh | <%= proyecto.nombre %>">
-    <meta name="twitter:description" content="<%= proyecto.descripcion %>">
-    <meta name="twitter:image" content="https://www.ecoh.mx/images/meta/twitter.jpg">
+    <title>Ecoh - <%= proyecto.nombre %></title>
+    <%= partial "partials/metas" %>
     <%= stylesheet_link_tag "reset" %>
     <%= stylesheet_link_tag "index" %>
     <%= partial "partials/favicons" %>
