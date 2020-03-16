@@ -1,0 +1,26 @@
+{
+  "name": "ecoh",
+  "version": "1.0.0",
+  "description": "Este sitio utiliza [Middleman](https://middlemanapp.com/) y [Contentful](https://www.contentful.com/) para generar el sitio con contenido editable.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bvallejop/ecoh.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bvallejop/ecoh/issues"
+  },
+  "homepage": "https://github.com/bvallejop/ecoh#readme",
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "gulp-cssmin": "^0.2.0",
+    "gulp-gzip": "^1.4.2",
+    "gulp-htmlmin": "^5.0.1",
+    "gulp-uglify": "^3.0.2"
+  }
+}
