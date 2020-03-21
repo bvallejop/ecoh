@@ -1,0 +1,73 @@
+---
+:id: 4ft6iBve3RvTX9UOLOHhZi
+:_meta:
+  :content_type_id: proyecto
+  :updated_at: '2020-03-17T17:12:08+00:00'
+  :created_at: '2020-03-17T11:46:18+00:00'
+  :id: 4ft6iBve3RvTX9UOLOHhZi
+:imagen_de_inicio:
+  :title: High Park
+  :description: 
+  :url: "//images.ctfassets.net/5othgs0vvum9/7hELWwyDqlU2McYZX0LMyN/fab03cc610e58d07bfb5ec3971b26d69/Screen_Shot_2020-03-17_at_5.38.20.png"
+  :_meta:
+    :updated_at: '2020-03-17T11:46:10+00:00'
+    :created_at: '2020-03-17T11:46:10+00:00'
+    :id: 7hELWwyDqlU2McYZX0LMyN
+:nombre: Low Park
+:superficie_construida: '200'
+:ubicacion: San Pedro
+:ano: 2019
+:detalles:
+- :id: 6Vwr91fxagF4E2HZXmVxnA
+  :_meta:
+    :content_type_id: texto
+    :updated_at: '2020-03-17T11:44:52+00:00'
+    :created_at: '2020-03-17T11:44:52+00:00'
+    :id: 6Vwr91fxagF4E2HZXmVxnA
+  :texto: Departamento en torre High Park en San Pedro Garza Garcia, NL
+:imagenes:
+- :title: Huastecas 1
+  :description: 
+  :url: "//images.ctfassets.net/5othgs0vvum9/2yRG5FBvSdrpUXS9LL0aWc/5984827bcf1c999d483f7b6bc67f16b2/Screen_Shot_2020-03-17_at_5.38.40.png"
+  :_meta:
+    :updated_at: '2020-03-17T11:41:22+00:00'
+    :created_at: '2020-03-17T11:41:22+00:00'
+    :id: 2yRG5FBvSdrpUXS9LL0aWc
+- :title: High Park 2
+  :description: 
+  :url: "//images.ctfassets.net/5othgs0vvum9/1bIr3RtYFSa8qfd6YLYR3u/85e45a93e22403f026ac5c134aed924d/Screen_Shot_2020-03-17_at_5.39.21.png"
+  :_meta:
+    :updated_at: '2020-03-17T11:42:13+00:00'
+    :created_at: '2020-03-17T11:42:13+00:00'
+    :id: 1bIr3RtYFSa8qfd6YLYR3u
+- :title: High Park 3
+  :description: 
+  :url: "//images.ctfassets.net/5othgs0vvum9/4pFLk4rDyHv94kAmHevDL9/f4937da3d8cc793d18fce8fbcaaf65a4/Screen_Shot_2020-03-17_at_5.38.20.png"
+  :_meta:
+    :updated_at: '2020-03-17T11:42:43+00:00'
+    :created_at: '2020-03-17T11:42:43+00:00'
+    :id: 4pFLk4rDyHv94kAmHevDL9
+- :title: High Park 4
+  :description: 
+  :url: "//images.ctfassets.net/5othgs0vvum9/c5fW6X8IpqZdOhzZLbCPp/d3a7a1b7bb20f49bd45461aec59a660a/Screen_Shot_2020-01-22_at_14.10.13.png"
+  :_meta:
+    :updated_at: '2020-03-17T11:43:11+00:00'
+    :created_at: '2020-03-17T11:43:11+00:00'
+    :id: c5fW6X8IpqZdOhzZLbCPp
+:seo:
+  :id: 6OwEyWnQcrtBecyzB9Ypgz
+  :_meta:
+    :content_type_id: seo
+    :updated_at: '2020-03-17T11:44:21+00:00'
+    :created_at: '2020-03-17T11:44:21+00:00'
+    :id: 6OwEyWnQcrtBecyzB9Ypgz
+  :titulo: High Park
+  :descripcion: Departamento High Park San Pedro
+  :imagen:
+    :title: High Park
+    :description: 
+    :url: "//images.ctfassets.net/5othgs0vvum9/34qamjgk1LZrUqbQHGYdXC/8bcda9b2d53932c8e2ed2d3fbf22e597/Screen_Shot_2020-03-17_at_5.38.52.png"
+    :_meta:
+      :updated_at: '2020-03-17T11:44:12+00:00'
+      :created_at: '2020-03-17T11:44:12+00:00'
+      :id: 34qamjgk1LZrUqbQHGYdXC

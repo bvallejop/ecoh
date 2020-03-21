@@ -38,7 +38,7 @@
       </p>
     <% end %>
   </div>
-  <div class="d-none d-block-m">
+  <div class="d-none d-flex-m fd-column-m">
     <% data.sitio.proyecto.each_with_index do |(id, menu_proyecto), i| %>
       <% if id != proyecto.id %>
         <a class="<% if i != data.sitio.proyecto.length - 1 %>mb-12px<% end %> ff-apercu_pro fs-12px fc-negro tt-uppercase td-none ls-1px tp-opacity ttf-ease_in_out td-0_15s ap-partial_fade_in" href="/proyectos/<%= id %>">
