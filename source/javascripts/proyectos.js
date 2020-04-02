@@ -7,6 +7,14 @@ const imagen3 = document.getElementById("imagen-3");
 const imagen3Url = imagen3.getAttribute("src");
 const imagen4 = document.getElementById("imagen-4");
 const imagen4Url = imagen4.getAttribute("src");
+const imagen5 = document.getElementById("imagen-5");
+const imagen5Url = imagen5.getAttribute("src");
+const imagen6 = document.getElementById("imagen-6");
+const imagen6Url = imagen6.getAttribute("src");
+const imagen7 = document.getElementById("imagen-7");
+const imagen7Url = imagen7.getAttribute("src");
+const imagen8 = document.getElementById("imagen-8");
+const imagen8Url = imagen8.getAttribute("src");
 
 imagen1.addEventListener("click", function() {
   imagenPrincipal.setAttribute("src", imagen1Url);
@@ -26,6 +34,26 @@ imagen3.addEventListener("click", function() {
 imagen4.addEventListener("click", function() {
   imagenPrincipal.setAttribute("src", imagen4Url);
   seleccionarImagen(imagen4);
+});
+
+imagen5.addEventListener("click", function() {
+  imagenPrincipal.setAttribute("src", imagen5Url);
+  seleccionarImagen(imagen5);
+});
+
+imagen6.addEventListener("click", function() {
+  imagenPrincipal.setAttribute("src", imagen6Url);
+  seleccionarImagen(imagen6);
+});
+
+imagen7.addEventListener("click", function() {
+  imagenPrincipal.setAttribute("src", imagen7Url);
+  seleccionarImagen(imagen7);
+});
+
+imagen8.addEventListener("click", function() {
+  imagenPrincipal.setAttribute("src", imagen8Url);
+  seleccionarImagen(imagen8);
 });
 
 const seleccionarImagen = (imagen) => {
