@@ -54,30 +54,11 @@
       <img id="imagen-principal" class="d-block w-100pt h-400px-l of-cover-m d-none d-flex-l" src="<%= proyecto.imagenes[0].url %>" alt="<%= proyecto.imagenes[0].description %>" />
     </div>
     <div class="w-20pt-l ml-4px-l d-flex-l fd-column-l h-400px-l pb-24px"> 
-      <div class="f-1-l pb-4px-m mb-24px mb-0px-l c-pointer-l">
-        <img id="imagen-1" class="d-block w-100pt of-cover-m h-100pt-m o-100pt-l" src="<%= proyecto.imagenes[0].url %>" alt="<%= proyecto.imagenes[0].description %>" />
-      </div>
-      <div class="f-1-l pb-4px-m mb-24px mb-0px-l c-pointer-l">
-        <img id="imagen-2" class="d-block w-100pt of-cover-m h-100pt-m o-35pt-l" src="<%= proyecto.imagenes[1].url %>" alt="<%= proyecto.imagenes[1].description %>" />
-      </div>
-      <div class="f-1-l pb-4px-m mb-24px mb-0px-l c-pointer-l">
-        <img id="imagen-3" class="d-block w-100pt of-cover-m h-100pt-m o-35pt-l" src="<%= proyecto.imagenes[2].url %>" alt="<%= proyecto.imagenes[2].description %>" />
-      </div>
-      <div class="f-1-l c-pointer-l">
-        <img id="imagen-4" class="d-block w-100pt of-cover-m h-100pt-m o-35pt-l" src="<%= proyecto.imagenes[3].url %>" alt="<%= proyecto.imagenes[3].description %>" />
-      </div>
-      <div class="f-1-l c-pointer-l">
-        <img id="imagen-5" class="d-block w-100pt of-cover-m h-100pt-m o-35pt-l" src="<%= proyecto.imagenes[4].url %>" alt="<%= proyecto.imagenes[4].description %>" />
-      </div>
-      <div class="f-1-l c-pointer-l">
-        <img id="imagen-6" class="d-block w-100pt of-cover-m h-100pt-m o-35pt-l" src="<%= proyecto.imagenes[5].url %>" alt="<%= proyecto.imagenes[5].description %>" />
-      </div>
-      <div class="f-1-l c-pointer-l">
-        <img id="imagen-7" class="d-block w-100pt of-cover-m h-100pt-m o-35pt-l" src="<%= proyecto.imagenes[6].url %>" alt="<%= proyecto.imagenes[6].description %>" />
-      </div>
-      <div class="f-1-l c-pointer-l">
-        <img id="imagen-8" class="d-block w-100pt of-cover-m h-100pt-m o-35pt-l" src="<%= proyecto.imagenes[7].url %>" alt="<%= proyecto.imagenes[7].description %>" />
-      </div>
+      <% proyecto.imagenes.each_with_index do |imagen,i| %>
+        <div class="f-1-l pb-4px-m mb-24px mb-0px-l c-pointer-l">
+          <img data-galeria class="d-block w-100pt of-cover-m h-100pt-m <% if i == 0 %>o-100pt-l <% else %>o-35pt-l <% end %> js-imagen-galeria" src="<%= imagen.url %>" alt="<%= imagen.description %>" />
+        </div>
+      <% end %>
     </div>
   </div>
 </div>
