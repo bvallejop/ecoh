@@ -184,11 +184,19 @@
 /*
 
   TRANSITIONS
+  - Preload
   - Transition property
   - Transition timing function
   - Transition duration
 
 */
+/* Preload */
+.preload * {
+  -webkit-transition: none !important;
+  -moz-transition: none !important;
+  -ms-transition: none !important;
+  -o-transition: none !important;
+}
 /* Transition property */
 .tp-max_height { transition-property: max-height; }
 .tp-transform { transition-property: transform; }

@@ -3,6 +3,10 @@ const $botonAbrirMenuProyectos = document.getElementById("boton-menu-proyectos")
 const $menuProyectos = document.getElementById("menu-proyectos");
 const $body = document.getElementsByTagName("body")[0];
 
+window.addEventListener("load", () => {
+  toggleClassOnElement($body, ["preload"]);
+});
+
 $botonCerrarMenuProyectos.addEventListener("click", () => {
   $body.removeAttribute("style");
   toggleClassOnElement($menuProyectos, ["t-ty-0px", "t-ty--100pt"]);
