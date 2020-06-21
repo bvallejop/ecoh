@@ -50,10 +50,14 @@
 </div>
 <div class="d-flex-m oy-scroll-m oy-hidden-l jc-center-m f-1-m h-100pt-m">
   <div class="d-flex-m fd-column-m fd-row-l pt-69px-m mw-700px-l pr-32px-m">
-    <div class="w-80pt-l mb-24px mb-0px-l">
-      <img id="imagen-principal" class="d-block w-100pt h-400px-l of-cover-m d-none d-flex-l" src="<%= proyecto.imagenes[0].url %>" alt="<%= proyecto.imagenes[0].description %>" />
+    <div class="mb-24px w-80pt-l h-424px-l mb-0px-l pb-24px-l">
+      <img
+        id="imagen-principal"
+        class="d-block w-100pt of-cover-m d-none d-flex-l w-100pt-l h-100pt-l of-cover-l" src="<%= proyecto.imagenes[0].url %>"
+        alt="<%= proyecto.imagenes[0].description %>"
+      />
     </div>
-    <div class="w-20pt-l ml-4px-l d-flex-l fd-column-l h-400px-l pb-24px">
+    <div class="w-20pt-l ml-4px-l d-flex-l fd-column-l h-400px-l pb-24px oy-hidden-l oy-scroll-l">
       <% proyecto.imagenes.each_with_index do |imagen, index| %>
         <div class="f-1-l pb-4px-m mb-24px mb-0px-l c-pointer-l">
           <img
