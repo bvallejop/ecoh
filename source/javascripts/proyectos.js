@@ -1,31 +1,13 @@
 const imagenPrincipal = document.getElementById("imagen-principal");
-const imagen1 = document.getElementById("imagen-1");
-const imagen1Url = imagen1.getAttribute("src");
-const imagen2 = document.getElementById("imagen-2");
-const imagen2Url = imagen2.getAttribute("src");
-const imagen3 = document.getElementById("imagen-3");
-const imagen3Url = imagen3.getAttribute("src");
-const imagen4 = document.getElementById("imagen-4");
-const imagen4Url = imagen4.getAttribute("src");
+const imagenes = document.querySelectorAll(`[data-imagen]`);
 
-imagen1.addEventListener("click", function() {
-  imagenPrincipal.setAttribute("src", imagen1Url);
-  seleccionarImagen(imagen1);
-});
+Array.from(imagenes).forEach(imagen => {
+  let imagenUrl = imagen.getAttribute("src");
 
-imagen2.addEventListener("click", function() {
-  imagenPrincipal.setAttribute("src", imagen2Url);
-  seleccionarImagen(imagen2);
-});
-
-imagen3.addEventListener("click", function() {
-  imagenPrincipal.setAttribute("src", imagen3Url);
-  seleccionarImagen(imagen3);
-});
-
-imagen4.addEventListener("click", function() {
-  imagenPrincipal.setAttribute("src", imagen4Url);
-  seleccionarImagen(imagen4);
+  imagen.addEventListener("click", () => {
+    imagenPrincipal.setAttribute("src", imagenUrl);
+    seleccionarImagen(imagen);
+  }); 
 });
 
 const seleccionarImagen = (imagen) => {
