@@ -2,7 +2,7 @@
 :id: 4ft6iBve3RvTX9UOLOHhZi
 :_meta:
   :content_type_id: proyecto
-  :updated_at: '2020-03-17T17:12:08+00:00'
+  :updated_at: '2020-06-21T13:26:24+00:00'
   :created_at: '2020-03-17T11:46:18+00:00'
   :id: 4ft6iBve3RvTX9UOLOHhZi
 :imagen_de_inicio:
@@ -13,24 +13,28 @@
     :updated_at: '2020-03-17T11:46:10+00:00'
     :created_at: '2020-03-17T11:46:10+00:00'
     :id: 7hELWwyDqlU2McYZX0LMyN
-:nombre: Low Park
-:superficie_construida: '200'
-:ubicacion: San Pedro
-:ano: 2019
+:nombre: Departamento HighPark
+:superficie_construida: 135 m2
+:ubicacion: 'San Pedro Garza García, N.L. '
+:ano: 2018
 :detalles:
 - :id: 6Vwr91fxagF4E2HZXmVxnA
   :_meta:
     :content_type_id: texto
-    :updated_at: '2020-03-17T11:44:52+00:00'
+    :updated_at: '2020-03-31T02:02:46+00:00'
     :created_at: '2020-03-17T11:44:52+00:00'
     :id: 6Vwr91fxagF4E2HZXmVxnA
-  :texto: Departamento en torre High Park en San Pedro Garza Garcia, NL
+  :texto: La propuesta de adecuación se planteó para un jóven ejecutivo, a su medida;
+    una vivienda funcional, práctica y además flexible que le permite vivir todos
+    los espacios a pesar de los diferentes horarios y usos que se dan en el transcurso
+    de un día completo. El proyecto se completa con una paleta de acabados y colores
+    atractivos para el perfil del usuario.
 :imagenes:
-- :title: Huastecas 1
-  :description: 
-  :url: "//images.ctfassets.net/5othgs0vvum9/2yRG5FBvSdrpUXS9LL0aWc/5984827bcf1c999d483f7b6bc67f16b2/Screen_Shot_2020-03-17_at_5.38.40.png"
+- :title: HighPark 01
+  :description: Eje central
+  :url: "//downloads.ctfassets.net/5othgs0vvum9/2yRG5FBvSdrpUXS9LL0aWc/feef281e1e3d7f350fe3e114785f4df7/_DSC3107.jpg"
   :_meta:
-    :updated_at: '2020-03-17T11:41:22+00:00'
+    :updated_at: '2020-03-31T02:14:21+00:00'
     :created_at: '2020-03-17T11:41:22+00:00'
     :id: 2yRG5FBvSdrpUXS9LL0aWc
 - :title: High Park 2
@@ -54,6 +58,48 @@
     :updated_at: '2020-03-17T11:43:11+00:00'
     :created_at: '2020-03-17T11:43:11+00:00'
     :id: c5fW6X8IpqZdOhzZLbCPp
+- :title: Londres 4
+  :description: Lorem ipsum osseus londres 4
+  :url: "//images.ctfassets.net/5othgs0vvum9/1l4Fz6zeGky7ItdOyOzQA6/426eb980dfffc8e500cc0ab5d918cbf5/photo-1520967824495-b529aeba26df"
+  :_meta:
+    :updated_at: '2020-02-16T16:07:55+00:00'
+    :created_at: '2020-02-16T16:07:55+00:00'
+    :id: 1l4Fz6zeGky7ItdOyOzQA6
+- :title: Londres 2
+  :description: Lorem ipsum londres 2
+  :url: "//images.ctfassets.net/5othgs0vvum9/6Y3xIt7mQ83ooleSJKwj1z/9a33cc212315fbc533e34c6ac852aee3/photo-1513635269975-59663e0ac1ad"
+  :_meta:
+    :updated_at: '2020-02-16T16:02:54+00:00'
+    :created_at: '2020-02-16T16:02:54+00:00'
+    :id: 6Y3xIt7mQ83ooleSJKwj1z
+- :title: Londres 1
+  :description: Lorem ipsum dolor londres 1
+  :url: "//images.ctfassets.net/5othgs0vvum9/2yjbRnKYOwwefNm0WB8c0c/492b8f3076a471e89287271019bc9aa4/photo-1505761671935-60b3a7427bad"
+  :_meta:
+    :updated_at: '2020-02-16T16:03:23+00:00'
+    :created_at: '2020-02-16T16:02:02+00:00'
+    :id: 2yjbRnKYOwwefNm0WB8c0c
+- :title: Londres 2
+  :description: Lorem ipsum londres 2
+  :url: "//images.ctfassets.net/5othgs0vvum9/6Y3xIt7mQ83ooleSJKwj1z/9a33cc212315fbc533e34c6ac852aee3/photo-1513635269975-59663e0ac1ad"
+  :_meta:
+    :updated_at: '2020-02-16T16:02:54+00:00'
+    :created_at: '2020-02-16T16:02:54+00:00'
+    :id: 6Y3xIt7mQ83ooleSJKwj1z
+- :title: Londres 4
+  :description: Lorem ipsum osseus londres 4
+  :url: "//images.ctfassets.net/5othgs0vvum9/1l4Fz6zeGky7ItdOyOzQA6/426eb980dfffc8e500cc0ab5d918cbf5/photo-1520967824495-b529aeba26df"
+  :_meta:
+    :updated_at: '2020-02-16T16:07:55+00:00'
+    :created_at: '2020-02-16T16:07:55+00:00'
+    :id: 1l4Fz6zeGky7ItdOyOzQA6
+- :title: Londres 3
+  :description: Lorem ipsum dolor ad astra per londres 3
+  :url: "//images.ctfassets.net/5othgs0vvum9/4TlFQhaZS8qhg3it0rzKo/02785b94036ff39f230d03ddb586e060/photo-1506501139174-099022df5260"
+  :_meta:
+    :updated_at: '2020-02-16T16:04:17+00:00'
+    :created_at: '2020-02-16T16:04:17+00:00'
+    :id: 4TlFQhaZS8qhg3it0rzKo
 :seo:
   :id: 6OwEyWnQcrtBecyzB9Ypgz
   :_meta:
