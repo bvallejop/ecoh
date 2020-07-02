@@ -2,15 +2,15 @@
 :id: 4ft6iBve3RvTX9UOLOHhZi
 :_meta:
   :content_type_id: proyecto
-  :updated_at: '2020-06-21T13:26:24+00:00'
+  :updated_at: '2020-06-26T04:28:56+00:00'
   :created_at: '2020-03-17T11:46:18+00:00'
   :id: 4ft6iBve3RvTX9UOLOHhZi
 :imagen_de_inicio:
   :title: High Park
   :description: 
-  :url: "//images.ctfassets.net/5othgs0vvum9/7hELWwyDqlU2McYZX0LMyN/fab03cc610e58d07bfb5ec3971b26d69/Screen_Shot_2020-03-17_at_5.38.20.png"
+  :url: "//images.ctfassets.net/5othgs0vvum9/7hELWwyDqlU2McYZX0LMyN/411cc91eb696a4e82b747d575f6743c8/6-highpark.png"
   :_meta:
-    :updated_at: '2020-03-17T11:46:10+00:00'
+    :updated_at: '2020-06-23T05:51:58+00:00'
     :created_at: '2020-03-17T11:46:10+00:00'
     :id: 7hELWwyDqlU2McYZX0LMyN
 :nombre: Departamento HighPark
@@ -21,85 +21,84 @@
 - :id: 6Vwr91fxagF4E2HZXmVxnA
   :_meta:
     :content_type_id: texto
-    :updated_at: '2020-03-31T02:02:46+00:00'
+    :updated_at: '2020-06-26T23:16:26+00:00'
     :created_at: '2020-03-17T11:44:52+00:00'
     :id: 6Vwr91fxagF4E2HZXmVxnA
-  :texto: La propuesta de adecuación se planteó para un jóven ejecutivo, a su medida;
-    una vivienda funcional, práctica y además flexible que le permite vivir todos
-    los espacios a pesar de los diferentes horarios y usos que se dan en el transcurso
-    de un día completo. El proyecto se completa con una paleta de acabados y colores
-    atractivos para el perfil del usuario.
+  :texto: |-
+    La propuesta de adecuación se planteó para un jóven ejecutivo, a su medida; una vivienda funcional, práctica y además flexible que le permite vivir todos los espacios a pesar de los diferentes horarios y usos que se dan en el transcurso de un día completo. El proyecto se completa con una paleta de acabados y colores atractivos para el perfil del usuario
+
+    Fotografías por Gabriela Guajardo
 :imagenes:
-- :title: HighPark 01
-  :description: Eje central
-  :url: "//downloads.ctfassets.net/5othgs0vvum9/2yRG5FBvSdrpUXS9LL0aWc/feef281e1e3d7f350fe3e114785f4df7/_DSC3107.jpg"
+- :title: High Park 01
+  :description: Planimetría 01
+  :url: "//images.ctfassets.net/5othgs0vvum9/1bIr3RtYFSa8qfd6YLYR3u/817fd9c82a6b8ce8375014d4e93753d7/2-highpark.png"
   :_meta:
-    :updated_at: '2020-03-31T02:14:21+00:00'
-    :created_at: '2020-03-17T11:41:22+00:00'
-    :id: 2yRG5FBvSdrpUXS9LL0aWc
-- :title: High Park 2
-  :description: 
-  :url: "//images.ctfassets.net/5othgs0vvum9/1bIr3RtYFSa8qfd6YLYR3u/85e45a93e22403f026ac5c134aed924d/Screen_Shot_2020-03-17_at_5.39.21.png"
-  :_meta:
-    :updated_at: '2020-03-17T11:42:13+00:00'
+    :updated_at: '2020-06-23T04:39:07+00:00'
     :created_at: '2020-03-17T11:42:13+00:00'
     :id: 1bIr3RtYFSa8qfd6YLYR3u
-- :title: High Park 3
-  :description: 
-  :url: "//images.ctfassets.net/5othgs0vvum9/4pFLk4rDyHv94kAmHevDL9/f4937da3d8cc793d18fce8fbcaaf65a4/Screen_Shot_2020-03-17_at_5.38.20.png"
+- :title: High Park 02
+  :description: Planimetría 02
+  :url: "//images.ctfassets.net/5othgs0vvum9/4pFLk4rDyHv94kAmHevDL9/6c08fad42e3eb8273d093dd483503a2c/1-highpark.png"
   :_meta:
-    :updated_at: '2020-03-17T11:42:43+00:00'
+    :updated_at: '2020-06-23T04:39:42+00:00'
     :created_at: '2020-03-17T11:42:43+00:00'
     :id: 4pFLk4rDyHv94kAmHevDL9
-- :title: High Park 4
-  :description: 
-  :url: "//images.ctfassets.net/5othgs0vvum9/c5fW6X8IpqZdOhzZLbCPp/d3a7a1b7bb20f49bd45461aec59a660a/Screen_Shot_2020-01-22_at_14.10.13.png"
+- :title: HighPark 03
+  :description: Planimetría 03
+  :url: "//images.ctfassets.net/5othgs0vvum9/c5fW6X8IpqZdOhzZLbCPp/c1008146698a3474955567aa833ba683/3-highpark.png"
   :_meta:
-    :updated_at: '2020-03-17T11:43:11+00:00'
+    :updated_at: '2020-06-23T04:42:34+00:00'
     :created_at: '2020-03-17T11:43:11+00:00'
     :id: c5fW6X8IpqZdOhzZLbCPp
-- :title: Londres 4
-  :description: Lorem ipsum osseus londres 4
-  :url: "//images.ctfassets.net/5othgs0vvum9/1l4Fz6zeGky7ItdOyOzQA6/426eb980dfffc8e500cc0ab5d918cbf5/photo-1520967824495-b529aeba26df"
+- :title: HighPark 04
+  :description: HighPark 04
+  :url: "//images.ctfassets.net/5othgs0vvum9/1l4Fz6zeGky7ItdOyOzQA6/4dff1d3b124176973dbe58ceece489cc/4-highpark.png"
   :_meta:
-    :updated_at: '2020-02-16T16:07:55+00:00'
+    :updated_at: '2020-06-23T06:06:07+00:00'
     :created_at: '2020-02-16T16:07:55+00:00'
     :id: 1l4Fz6zeGky7ItdOyOzQA6
-- :title: Londres 2
-  :description: Lorem ipsum londres 2
-  :url: "//images.ctfassets.net/5othgs0vvum9/6Y3xIt7mQ83ooleSJKwj1z/9a33cc212315fbc533e34c6ac852aee3/photo-1513635269975-59663e0ac1ad"
+- :title: HighPark 05
+  :description: HighPark 02
+  :url: "//images.ctfassets.net/5othgs0vvum9/59ZLO7RvmWM5pSXC32i2kj/e5e595e58073bc9543eed4f970314905/5-highpark.png"
   :_meta:
-    :updated_at: '2020-02-16T16:02:54+00:00'
+    :updated_at: '2020-06-23T05:43:50+00:00'
+    :created_at: '2020-06-23T05:43:50+00:00'
+    :id: 59ZLO7RvmWM5pSXC32i2kj
+- :title: Highpark 06
+  :description: Highpark 04
+  :url: "//images.ctfassets.net/5othgs0vvum9/cdzgzzG674vnAXZtyclG6/f6ea378e078f1bd3a2288e507f589ac0/HighPark.png"
+  :_meta:
+    :updated_at: '2020-06-26T04:28:35+00:00'
+    :created_at: '2020-06-26T04:28:35+00:00'
+    :id: cdzgzzG674vnAXZtyclG6
+- :title: HighPark 07
+  :description: HighPark 05
+  :url: "//images.ctfassets.net/5othgs0vvum9/6Y3xIt7mQ83ooleSJKwj1z/443199a774bcc0c39c88485a61374107/7-highpark.png"
+  :_meta:
+    :updated_at: '2020-06-23T05:28:13+00:00'
     :created_at: '2020-02-16T16:02:54+00:00'
     :id: 6Y3xIt7mQ83ooleSJKwj1z
-- :title: Londres 1
-  :description: Lorem ipsum dolor londres 1
-  :url: "//images.ctfassets.net/5othgs0vvum9/2yjbRnKYOwwefNm0WB8c0c/492b8f3076a471e89287271019bc9aa4/photo-1505761671935-60b3a7427bad"
+- :title: HighPark 08
+  :description: HighPark 04
+  :url: "//images.ctfassets.net/5othgs0vvum9/1OcwdQCCDaJni45glYSBLW/c0206d197ae866c70893ae34dbe21252/8-highpark.png"
   :_meta:
-    :updated_at: '2020-02-16T16:03:23+00:00'
-    :created_at: '2020-02-16T16:02:02+00:00'
-    :id: 2yjbRnKYOwwefNm0WB8c0c
-- :title: Londres 2
-  :description: Lorem ipsum londres 2
-  :url: "//images.ctfassets.net/5othgs0vvum9/6Y3xIt7mQ83ooleSJKwj1z/9a33cc212315fbc533e34c6ac852aee3/photo-1513635269975-59663e0ac1ad"
+    :updated_at: '2020-06-23T05:40:06+00:00'
+    :created_at: '2020-06-23T05:39:35+00:00'
+    :id: 1OcwdQCCDaJni45glYSBLW
+- :title: HighPark 09
+  :description: HighPark 05
+  :url: "//images.ctfassets.net/5othgs0vvum9/8R8DFN036PcmJvfKGmEZx/38f5d2145a27f6c199fc97d0566c432e/9-highpark.png"
   :_meta:
-    :updated_at: '2020-02-16T16:02:54+00:00'
-    :created_at: '2020-02-16T16:02:54+00:00'
-    :id: 6Y3xIt7mQ83ooleSJKwj1z
-- :title: Londres 4
-  :description: Lorem ipsum osseus londres 4
-  :url: "//images.ctfassets.net/5othgs0vvum9/1l4Fz6zeGky7ItdOyOzQA6/426eb980dfffc8e500cc0ab5d918cbf5/photo-1520967824495-b529aeba26df"
+    :updated_at: '2020-06-23T05:40:58+00:00'
+    :created_at: '2020-06-23T05:40:58+00:00'
+    :id: 8R8DFN036PcmJvfKGmEZx
+- :title: HighPark 10
+  :description: HighPark 07
+  :url: "//images.ctfassets.net/5othgs0vvum9/4uPC6bGnAE1Ae5NaHZAafO/e74d3408a58797578c34d2c8d29d9614/10-highpark.png"
   :_meta:
-    :updated_at: '2020-02-16T16:07:55+00:00'
-    :created_at: '2020-02-16T16:07:55+00:00'
-    :id: 1l4Fz6zeGky7ItdOyOzQA6
-- :title: Londres 3
-  :description: Lorem ipsum dolor ad astra per londres 3
-  :url: "//images.ctfassets.net/5othgs0vvum9/4TlFQhaZS8qhg3it0rzKo/02785b94036ff39f230d03ddb586e060/photo-1506501139174-099022df5260"
-  :_meta:
-    :updated_at: '2020-02-16T16:04:17+00:00'
-    :created_at: '2020-02-16T16:04:17+00:00'
-    :id: 4TlFQhaZS8qhg3it0rzKo
+    :updated_at: '2020-06-23T05:41:52+00:00'
+    :created_at: '2020-06-23T05:41:52+00:00'
+    :id: 4uPC6bGnAE1Ae5NaHZAafO
 :seo:
   :id: 6OwEyWnQcrtBecyzB9Ypgz
   :_meta:

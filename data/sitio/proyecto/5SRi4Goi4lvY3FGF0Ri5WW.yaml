@@ -2,128 +2,113 @@
 :id: 5SRi4Goi4lvY3FGF0Ri5WW
 :_meta:
   :content_type_id: proyecto
-  :updated_at: '2020-06-21T13:27:13+00:00'
+  :updated_at: '2020-06-26T05:43:38+00:00'
   :created_at: '2020-02-29T16:03:45+00:00'
   :id: 5SRi4Goi4lvY3FGF0Ri5WW
 :imagen_de_inicio:
-  :title: Londres 4
-  :description: Lorem ipsum osseus londres 4
-  :url: "//images.ctfassets.net/5othgs0vvum9/1l4Fz6zeGky7ItdOyOzQA6/426eb980dfffc8e500cc0ab5d918cbf5/photo-1520967824495-b529aeba26df"
+  :title: 'Remodelación Zoom '
+  :description: Remod Zoom
+  :url: "//images.ctfassets.net/5othgs0vvum9/29qGkln0F1ZjMAaPcw8njj/87811ef0f080ac332088edfc33ecd2fc/Zoom-01abierto.png"
   :_meta:
-    :updated_at: '2020-02-16T16:07:55+00:00'
-    :created_at: '2020-02-16T16:07:55+00:00'
-    :id: 1l4Fz6zeGky7ItdOyOzQA6
-:nombre: Puente Manhattan
-:superficie_construida: 100,000 M2
-:ubicacion: Nueva York
-:ano: 2020
+    :updated_at: '2020-06-26T05:45:34+00:00'
+    :created_at: '2020-06-26T04:57:21+00:00'
+    :id: 29qGkln0F1ZjMAaPcw8njj
+:nombre: Zoom
+:superficie_construida: N/A
+:ubicacion: Monterrey, N.L.
+:ano: 2019
 :detalles:
 - :id: 41zIIxNojtGnIozDepahVY
   :_meta:
     :content_type_id: texto
-    :updated_at: '2020-03-02T12:32:29+00:00'
+    :updated_at: '2020-06-26T23:15:45+00:00'
     :created_at: '2020-03-02T12:32:29+00:00'
     :id: 41zIIxNojtGnIozDepahVY
-  :texto: Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium
-    doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis
-    et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem
-    quia voluptas sit aspernatur aut odit aut fugit.
-- :id: 1c8bg2LgrxQFkuYvmQCaTA
-  :_meta:
-    :content_type_id: texto
-    :updated_at: '2020-03-02T12:32:42+00:00'
-    :created_at: '2020-03-02T12:32:42+00:00'
-    :id: 1c8bg2LgrxQFkuYvmQCaTA
-  :texto: Sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt.
-    Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur,
-    adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore
-    magnam aliquam quaerat voluptatem.
+  :texto: |-
+    Proyecto de diseño y remodelación para las sucursales de un autolavado. Con el objetivo de empatar la nueva imagen de la marca y branding, se propuso un diseño fácil de replicar en nuevas sucursales con materiales que se prestan para cualquier mantenimiento o trabajo de limpieza.
+
+    Fotografías por Pentaprisma
 :imagenes:
-- :title: Londres 4
-  :description: Lorem ipsum ad astra per aspera londres 4
-  :url: "//images.ctfassets.net/5othgs0vvum9/4XA4YqTAsekHeNIa2lnI2s/8f4eb712d20f2a540ddfa7ee5a9d405f/photo-1480449649358-ee14c6ee0b17"
+- :title: Zoom 01
+  :description: 'Planimetria 01
+
+'
+  :url: "//images.ctfassets.net/5othgs0vvum9/4XA4YqTAsekHeNIa2lnI2s/e9901c9362d58ec01597c3bd6ab0ac99/PLanimetria-1.png"
   :_meta:
-    :updated_at: '2020-02-16T16:05:01+00:00'
+    :updated_at: '2020-06-26T05:11:35+00:00'
     :created_at: '2020-02-16T16:05:01+00:00'
     :id: 4XA4YqTAsekHeNIa2lnI2s
-- :title: Londres 3
-  :description: Lorem ipsum dolor ad astra per londres 3
-  :url: "//images.ctfassets.net/5othgs0vvum9/4TlFQhaZS8qhg3it0rzKo/02785b94036ff39f230d03ddb586e060/photo-1506501139174-099022df5260"
+- :title: Zoom 02
+  :description: Planimetria 02
+  :url: "//images.ctfassets.net/5othgs0vvum9/4TlFQhaZS8qhg3it0rzKo/e2244449ab376ae7cff0cc27f7a26727/PLanimetria-2.png"
   :_meta:
-    :updated_at: '2020-02-16T16:04:17+00:00'
+    :updated_at: '2020-06-26T05:11:59+00:00'
     :created_at: '2020-02-16T16:04:17+00:00'
     :id: 4TlFQhaZS8qhg3it0rzKo
-- :title: Londres 1
-  :description: Lorem ipsum dolor londres 1
-  :url: "//images.ctfassets.net/5othgs0vvum9/2yjbRnKYOwwefNm0WB8c0c/492b8f3076a471e89287271019bc9aa4/photo-1505761671935-60b3a7427bad"
+- :title: Zoom 03
+  :description: Zoom 01
+  :url: "//images.ctfassets.net/5othgs0vvum9/2e6FYPsFcRWZzlVrZoCtgX/a6dabd2fbbfc101e55ce569bcba1418f/Zoom-02.png"
   :_meta:
-    :updated_at: '2020-02-16T16:03:23+00:00'
-    :created_at: '2020-02-16T16:02:02+00:00'
-    :id: 2yjbRnKYOwwefNm0WB8c0c
-- :title: Londres 2
-  :description: Lorem ipsum londres 2
-  :url: "//images.ctfassets.net/5othgs0vvum9/6Y3xIt7mQ83ooleSJKwj1z/9a33cc212315fbc533e34c6ac852aee3/photo-1513635269975-59663e0ac1ad"
+    :updated_at: '2020-06-26T05:27:20+00:00'
+    :created_at: '2020-06-26T05:19:57+00:00'
+    :id: 2e6FYPsFcRWZzlVrZoCtgX
+- :title: Zoom 0101
+  :description: Zoom 0101
+  :url: "//images.ctfassets.net/5othgs0vvum9/5tjiFkyaKh3xGIDunUQHka/ffc7274477b9edb33590e60b0227991f/Zoom-00101.png"
   :_meta:
-    :updated_at: '2020-02-16T16:02:54+00:00'
-    :created_at: '2020-02-16T16:02:54+00:00'
-    :id: 6Y3xIt7mQ83ooleSJKwj1z
-- :title: HighPark 01
-  :description: Eje central
-  :url: "//downloads.ctfassets.net/5othgs0vvum9/2yRG5FBvSdrpUXS9LL0aWc/feef281e1e3d7f350fe3e114785f4df7/_DSC3107.jpg"
+    :updated_at: '2020-06-26T05:31:33+00:00'
+    :created_at: '2020-06-26T05:31:33+00:00'
+    :id: 5tjiFkyaKh3xGIDunUQHka
+- :title: Zoom 04
+  :description: Zoom 02
+  :url: "//images.ctfassets.net/5othgs0vvum9/FGxvl4qUmlAHguHN3UrVj/06f6009fb9d5664000b2062a24183650/Zoom-01.png"
   :_meta:
-    :updated_at: '2020-03-31T02:14:21+00:00'
-    :created_at: '2020-03-17T11:41:22+00:00'
-    :id: 2yRG5FBvSdrpUXS9LL0aWc
-- :title: High Park
-  :description: 
-  :url: "//images.ctfassets.net/5othgs0vvum9/7hELWwyDqlU2McYZX0LMyN/fab03cc610e58d07bfb5ec3971b26d69/Screen_Shot_2020-03-17_at_5.38.20.png"
+    :updated_at: '2020-06-26T05:26:54+00:00'
+    :created_at: '2020-06-26T05:26:54+00:00'
+    :id: FGxvl4qUmlAHguHN3UrVj
+- :title: Zoom 10
+  :description: Zoom10
+  :url: "//images.ctfassets.net/5othgs0vvum9/1wNbsSem2DmEZKhbe00NAW/9e51b85ac57641eae657154bd5f5450b/Zoom-01abierto.png"
   :_meta:
-    :updated_at: '2020-03-17T11:46:10+00:00'
-    :created_at: '2020-03-17T11:46:10+00:00'
-    :id: 7hELWwyDqlU2McYZX0LMyN
-- :title: High Park 3
-  :description: 
-  :url: "//images.ctfassets.net/5othgs0vvum9/4pFLk4rDyHv94kAmHevDL9/f4937da3d8cc793d18fce8fbcaaf65a4/Screen_Shot_2020-03-17_at_5.38.20.png"
+    :updated_at: '2020-06-26T05:41:13+00:00'
+    :created_at: '2020-06-26T05:41:13+00:00'
+    :id: 1wNbsSem2DmEZKhbe00NAW
+- :title: Zoom 0211
+  :description: Zoom 02121
+  :url: "//images.ctfassets.net/5othgs0vvum9/5TVy18OKAlKDaquHpMbwND/f8f3d30ab971fe3faf7a654d08dd359a/Zoom-09lonas.png"
   :_meta:
-    :updated_at: '2020-03-17T11:42:43+00:00'
-    :created_at: '2020-03-17T11:42:43+00:00'
-    :id: 4pFLk4rDyHv94kAmHevDL9
-- :title: High Park 2
-  :description: 
-  :url: "//images.ctfassets.net/5othgs0vvum9/1bIr3RtYFSa8qfd6YLYR3u/85e45a93e22403f026ac5c134aed924d/Screen_Shot_2020-03-17_at_5.39.21.png"
+    :updated_at: '2020-06-26T05:43:11+00:00'
+    :created_at: '2020-06-26T05:35:20+00:00'
+    :id: 5TVy18OKAlKDaquHpMbwND
+- :title: Zoom 05
+  :description: Zoom 03
+  :url: "//images.ctfassets.net/5othgs0vvum9/3gqrqDqK2Y8W2d3TAPEAUH/f0be9d57051c18d5f0e1bbb1e785d746/Zoom-04.png"
   :_meta:
-    :updated_at: '2020-03-17T11:42:13+00:00'
-    :created_at: '2020-03-17T11:42:13+00:00'
-    :id: 1bIr3RtYFSa8qfd6YLYR3u
-- :title: Londres 2
-  :description: Lorem ipsum londres 2
-  :url: "//images.ctfassets.net/5othgs0vvum9/6Y3xIt7mQ83ooleSJKwj1z/9a33cc212315fbc533e34c6ac852aee3/photo-1513635269975-59663e0ac1ad"
+    :updated_at: '2020-06-26T05:29:16+00:00'
+    :created_at: '2020-06-26T05:29:16+00:00'
+    :id: 3gqrqDqK2Y8W2d3TAPEAUH
+- :title: Zoom 06
+  :description: Zoom 04
+  :url: "//images.ctfassets.net/5othgs0vvum9/4KzHigdFyeAbtRsYbb9KGK/454112bf6674ca005ce7edc2926f65bf/Zoom-03.png"
   :_meta:
-    :updated_at: '2020-02-16T16:02:54+00:00'
-    :created_at: '2020-02-16T16:02:54+00:00'
-    :id: 6Y3xIt7mQ83ooleSJKwj1z
-- :title: Londres 1
-  :description: Lorem ipsum dolor londres 1
-  :url: "//images.ctfassets.net/5othgs0vvum9/2yjbRnKYOwwefNm0WB8c0c/492b8f3076a471e89287271019bc9aa4/photo-1505761671935-60b3a7427bad"
+    :updated_at: '2020-06-26T05:29:34+00:00'
+    :created_at: '2020-06-26T05:27:59+00:00'
+    :id: 4KzHigdFyeAbtRsYbb9KGK
+- :title: Zoom 09
+  :description: Zoom 05
+  :url: "//images.ctfassets.net/5othgs0vvum9/7rtW5oCcgck4zPO4R48R6l/947f2e8c6c9d75c4b9113c9e13c506c2/Zoom-09.png"
   :_meta:
-    :updated_at: '2020-02-16T16:03:23+00:00'
-    :created_at: '2020-02-16T16:02:02+00:00'
-    :id: 2yjbRnKYOwwefNm0WB8c0c
+    :updated_at: '2020-06-26T05:40:05+00:00'
+    :created_at: '2020-06-26T05:40:05+00:00'
+    :id: 7rtW5oCcgck4zPO4R48R6l
 :seo:
   :id: 5lrdb90NKK4B2nedCf4sqx
   :_meta:
     :content_type_id: seo
-    :updated_at: '2020-02-16T16:06:14+00:00'
+    :updated_at: '2020-06-26T00:00:39+00:00'
     :created_at: '2020-02-16T16:06:14+00:00'
     :id: 5lrdb90NKK4B2nedCf4sqx
-  :titulo: Ecoh - Londres 2049
+  :titulo: 'Ecoh - '
   :descripcion: Lorem ipsum dolor sit amet consectetur ad astra per aspera osseus
     londres
-  :imagen:
-    :title: Londres 1
-    :description: Lorem ipsum dolor londres 1
-    :url: "//images.ctfassets.net/5othgs0vvum9/2yjbRnKYOwwefNm0WB8c0c/492b8f3076a471e89287271019bc9aa4/photo-1505761671935-60b3a7427bad"
-    :_meta:
-      :updated_at: '2020-02-16T16:03:23+00:00'
-      :created_at: '2020-02-16T16:02:02+00:00'
-      :id: 2yjbRnKYOwwefNm0WB8c0c
+  :imagen: 

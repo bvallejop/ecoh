@@ -1,0 +1,116 @@
+---
+:id: 5tO4k5nbiRHipj80zjQXEb
+:_meta:
+  :content_type_id: proyecto
+  :updated_at: '2020-06-26T22:58:24+00:00'
+  :created_at: '2020-06-26T22:58:24+00:00'
+  :id: 5tO4k5nbiRHipj80zjQXEb
+:imagen_de_inicio:
+  :title: Matamoros 01
+  :description: Matamoros 01
+  :url: "//images.ctfassets.net/5othgs0vvum9/2T37apwazBOOIdiTRbGyGo/c6f979a28eff6251c8d9a76c8ae1020e/Matamoros-01.png"
+  :_meta:
+    :updated_at: '2020-06-26T23:10:21+00:00'
+    :created_at: '2020-06-26T16:43:37+00:00'
+    :id: 2T37apwazBOOIdiTRbGyGo
+:nombre: Oficinas Matamoros
+:superficie_construida: n/a
+:ubicacion: Monterrey Centro, N.L.
+:ano: 2020
+:detalles:
+- :id: 3fx1O3qNALPjKqdv3mAD3N
+  :_meta:
+    :content_type_id: texto
+    :updated_at: '2020-06-26T23:14:44+00:00'
+    :created_at: '2020-06-26T16:35:55+00:00'
+    :id: 3fx1O3qNALPjKqdv3mAD3N
+  :texto: "Primera etapa de remodelación de oficinas en el centro de Monterrey. \n\nFotografías
+    por Pentaprisma"
+:imagenes:
+- :title: Planimetria 01
+  :description: Matamoros 01
+  :url: "//images.ctfassets.net/5othgs0vvum9/4R8130NaMNcfI6ppkEGlAr/baea6f1daaa2137e9a9647ebf9393f2b/Planimetria-01.png"
+  :_meta:
+    :updated_at: '2020-06-26T16:56:05+00:00'
+    :created_at: '2020-06-26T16:56:05+00:00'
+    :id: 4R8130NaMNcfI6ppkEGlAr
+- :title: Planimetria 02
+  :description: Matamoros 02
+  :url: "//images.ctfassets.net/5othgs0vvum9/DlIzD7u1PN9it0QJXMFCO/6c98a9c3e73f70685286f5f46cc7779c/Planimetria-02.png"
+  :_meta:
+    :updated_at: '2020-06-26T16:58:02+00:00'
+    :created_at: '2020-06-26T16:58:02+00:00'
+    :id: DlIzD7u1PN9it0QJXMFCO
+- :title: Matamoros 01
+  :description: Matamoros 03
+  :url: "//images.ctfassets.net/5othgs0vvum9/6VuNpw6CDpvmluaRrajX5W/2574a2f362048518abfbab892b7f88ad/Matamoros-01.png"
+  :_meta:
+    :updated_at: '2020-06-26T23:11:37+00:00'
+    :created_at: '2020-06-26T16:58:44+00:00'
+    :id: 6VuNpw6CDpvmluaRrajX5W
+- :title: Matamoros 04
+  :description: Matamoros 02
+  :url: "//images.ctfassets.net/5othgs0vvum9/33ewNWVmG047VqHK0zquyl/79a89290e81ed15106c4a8e93fa973d5/Matamoros-02.png"
+  :_meta:
+    :updated_at: '2020-06-26T17:01:54+00:00'
+    :created_at: '2020-06-26T17:01:54+00:00'
+    :id: 33ewNWVmG047VqHK0zquyl
+- :title: Matamoros 05
+  :description: Matamoros 03
+  :url: "//images.ctfassets.net/5othgs0vvum9/51OEe4i3ugPKixRdMz3TAr/9a4ffc2c3746c49bac839fab2d918e6b/Matamoros-03.png"
+  :_meta:
+    :updated_at: '2020-06-26T17:05:34+00:00'
+    :created_at: '2020-06-26T17:05:34+00:00'
+    :id: 51OEe4i3ugPKixRdMz3TAr
+- :title: Matamoros 04
+  :description: Matamoros 06
+  :url: "//images.ctfassets.net/5othgs0vvum9/5QxotgOjr3lYAH1E4VPSZF/82e8da475603a63980d867b197282c71/Matamoros-04.png"
+  :_meta:
+    :updated_at: '2020-06-26T17:08:20+00:00'
+    :created_at: '2020-06-26T17:08:20+00:00'
+    :id: 5QxotgOjr3lYAH1E4VPSZF
+- :title: Matamoros 06
+  :description: Matamoros 04
+  :url: "//images.ctfassets.net/5othgs0vvum9/7yoHm42GoquqQrq4Ya6VbB/6207f22944937934abb5b1b0855fa310/Matamoros-6.png"
+  :_meta:
+    :updated_at: '2020-06-26T22:36:15+00:00'
+    :created_at: '2020-06-26T22:36:15+00:00'
+    :id: 7yoHm42GoquqQrq4Ya6VbB
+- :title: Matamoros 07
+  :description: Matamoros 05
+  :url: "//images.ctfassets.net/5othgs0vvum9/2MGytuewHThd11vWJGAgLy/7b2c1994458aafcdb38bc97c4c1eada7/Matamoros-7.png"
+  :_meta:
+    :updated_at: '2020-06-26T22:36:47+00:00'
+    :created_at: '2020-06-26T22:36:47+00:00'
+    :id: 2MGytuewHThd11vWJGAgLy
+- :title: Matamoros 09
+  :description: Matamoros 08
+  :url: "//images.ctfassets.net/5othgs0vvum9/nBMoT26hqxLcavDuyZQuH/8a9224a529ac6b97bf098d18dad5ab07/Matamoros-5.png"
+  :_meta:
+    :updated_at: '2020-06-26T22:38:52+00:00'
+    :created_at: '2020-06-26T22:38:52+00:00'
+    :id: nBMoT26hqxLcavDuyZQuH
+- :title: Matamoros 10
+  :description: Matamoros10
+  :url: "//images.ctfassets.net/5othgs0vvum9/la831GqMJseYIJn2ihhoX/c6d005ee26a93685943cf20c0c9f1e7f/Matamoros-10.png"
+  :_meta:
+    :updated_at: '2020-06-26T22:41:10+00:00'
+    :created_at: '2020-06-26T22:41:10+00:00'
+    :id: la831GqMJseYIJn2ihhoX
+:seo:
+  :id: 2UoYAnhnNpylqLCpG7Oz1D
+  :_meta:
+    :content_type_id: seo
+    :updated_at: '2020-06-26T22:58:10+00:00'
+    :created_at: '2020-06-26T22:58:10+00:00'
+    :id: 2UoYAnhnNpylqLCpG7Oz1D
+  :titulo: Matamoros Remodelación
+  :descripcion: Remodelacion de oficinas Matamoros
+  :imagen:
+    :title: Matamoros-01
+    :description: 
+    :url: "//images.ctfassets.net/5othgs0vvum9/23NShTbjahj8SQS5mFP3IE/3fd69bef53b73263e516c90516a6216d/Matamoros-01.png"
+    :_meta:
+      :updated_at: '2020-06-26T22:57:58+00:00'
+      :created_at: '2020-06-26T22:57:58+00:00'
+      :id: 23NShTbjahj8SQS5mFP3IE

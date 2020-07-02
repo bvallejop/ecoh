@@ -2,29 +2,26 @@
 :id: 59WzMyg6RWSwuiS7AOpP7X
 :_meta:
   :content_type_id: nosotros
-  :updated_at: '2020-03-17T12:37:05+00:00'
+  :updated_at: '2020-06-27T00:05:31+00:00'
   :created_at: '2020-02-16T16:18:37+00:00'
   :id: 59WzMyg6RWSwuiS7AOpP7X
 :parrafos:
 - :id: 40MKw7hnuTiqmvWYD9qRhE
   :_meta:
     :content_type_id: texto
-    :updated_at: '2020-03-23T18:43:03+00:00'
+    :updated_at: '2020-06-27T00:04:45+00:00'
     :created_at: '2020-03-01T14:13:46+00:00'
     :id: 40MKw7hnuTiqmvWYD9qRhE
-  :texto: 'Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium
-    doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis
-    et quasi architecto beatae vitae dicta sunt explicabo. '
+  :texto: |-
+    ECOH es un taller de Arquitectura dedicado al diseño de proyectos de tipologías y escalas diferentes.
+
+    Los proyectos que trabaja la oficina son el fín de un proceso de diseño específico basado en un profundo análisis de las condiciones de contexto, materiales, necesidades del usuario y procesos constructivos.
 - :id: 1benDGqf5wkrM9wpdy5fyS
   :_meta:
     :content_type_id: texto
-    :updated_at: '2020-03-01T14:14:13+00:00'
+    :updated_at: '2020-06-27T00:10:55+00:00'
     :created_at: '2020-03-01T14:14:13+00:00'
     :id: 1benDGqf5wkrM9wpdy5fyS
-  :texto: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
-    tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-    nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-    Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu
-    fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in
-    culpa qui officia deserunt mollit anim id est laborum.
+  :texto: Los proyectos se resuelven de manera integral para ofrecer al cliente un
+    servicio personalizado desde el diseño hasta la construcción.
 :publicado: Publicado

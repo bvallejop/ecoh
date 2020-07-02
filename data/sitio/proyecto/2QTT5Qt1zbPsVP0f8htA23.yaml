@@ -2,127 +2,121 @@
 :id: 2QTT5Qt1zbPsVP0f8htA23
 :_meta:
   :content_type_id: proyecto
-  :updated_at: '2020-06-21T13:27:32+00:00'
+  :updated_at: '2020-06-26T05:49:21+00:00'
   :created_at: '2020-02-16T16:09:52+00:00'
   :id: 2QTT5Qt1zbPsVP0f8htA23
 :imagen_de_inicio:
-  :title: Londres 1
-  :description: Lorem ipsum dolor londres 1
-  :url: "//images.ctfassets.net/5othgs0vvum9/2yjbRnKYOwwefNm0WB8c0c/492b8f3076a471e89287271019bc9aa4/photo-1505761671935-60b3a7427bad"
+  :title: Las Huastecas
+  :description: Las Huastecas Portada
+  :url: "//images.ctfassets.net/5othgs0vvum9/552lDe76rGs06mGVQg3Sse/5c05cf3e8d8e68918a580262c9f6b31c/Huastecas-01.png"
   :_meta:
-    :updated_at: '2020-02-16T16:03:23+00:00'
-    :created_at: '2020-02-16T16:02:02+00:00'
-    :id: 2yjbRnKYOwwefNm0WB8c0c
-:nombre: Londres
-:superficie_construida: 35,000 M2
-:ubicacion: Picadilly Circus
-:ano: 2049
+    :updated_at: '2020-06-26T05:21:09+00:00'
+    :created_at: '2020-06-26T05:21:09+00:00'
+    :id: 552lDe76rGs06mGVQg3Sse
+:nombre: Departamento LH
+:superficie_construida: 115 m2
+:ubicacion: Las Huastecas, Santa Catarina N.L.
+:ano: 2019
 :detalles:
-- :id: 5cMUkETVY299A1gtP6yiCw
+- :id: 1gfgmof9hZmLYr3UcGlIPD
   :_meta:
     :content_type_id: texto
-    :updated_at: '2020-03-02T12:31:39+00:00'
-    :created_at: '2020-03-02T12:31:39+00:00'
-    :id: 5cMUkETVY299A1gtP6yiCw
-  :texto: Basado en los ejes de composición lineales que atraviesan todo el predio,
-    se estructuran tres volumenes complementados con uno al final generando remates
-    visuales y recorridos que estan delimitados por areas publicas y privadas.
-- :id: 4KDScUT33IiLzgaNUVvfcg
-  :_meta:
-    :content_type_id: texto
-    :updated_at: '2020-03-02T12:31:49+00:00'
-    :created_at: '2020-03-02T12:31:49+00:00'
-    :id: 4KDScUT33IiLzgaNUVvfcg
-  :texto: El proyecto se estudio a partir de tres niveles de vivienda en donde todas
-    las casas se componen de tipologias unicas y de areas verdes privadas generando
-    un conjunto habitacional con una escala proporcional al contexto del pueblo de
-    Tizapan.
+    :updated_at: '2020-06-26T23:15:11+00:00'
+    :created_at: '2020-06-24T23:10:16+00:00'
+    :id: 1gfgmof9hZmLYr3UcGlIPD
+  :texto: |-
+    Proyecto de interiorismo para un departamento ubicado frente al cañón da La Huasteca, al suroeste de la zona metropolitana de Monterrey. Se seleccionó una paleta de acabados en tonos naturales y neutros que brindan calidez a los espacios y que además contrastan con los colores de la montaña que cambian con el pasar de la luz del día.
+
+    Fotografías por Pentaprisma
 :imagenes:
-- :title: Londres 1
-  :description: Lorem ipsum dolor londres 1
-  :url: "//images.ctfassets.net/5othgs0vvum9/2yjbRnKYOwwefNm0WB8c0c/492b8f3076a471e89287271019bc9aa4/photo-1505761671935-60b3a7427bad"
+- :title: Las Huastecas 01
+  :description: Planimetría 01
+  :url: "//images.ctfassets.net/5othgs0vvum9/5c8uEIk7eRxqPslWvPgIvc/3b6028c792824afb881501fdaa770d55/planimetria-1.png"
   :_meta:
-    :updated_at: '2020-02-16T16:03:23+00:00'
-    :created_at: '2020-02-16T16:02:02+00:00'
-    :id: 2yjbRnKYOwwefNm0WB8c0c
-- :title: Londres 2
-  :description: Lorem ipsum londres 2
-  :url: "//images.ctfassets.net/5othgs0vvum9/6Y3xIt7mQ83ooleSJKwj1z/9a33cc212315fbc533e34c6ac852aee3/photo-1513635269975-59663e0ac1ad"
+    :updated_at: '2020-06-24T23:27:22+00:00'
+    :created_at: '2020-06-24T23:27:22+00:00'
+    :id: 5c8uEIk7eRxqPslWvPgIvc
+- :title: Las Huastecas 02
+  :description: Planimetria 02
+  :url: "//images.ctfassets.net/5othgs0vvum9/7BGReAUWQJxdv3xjrK9zDY/5171dd7a82f8185e6bf8a0ce0c00755a/planimetria-2.png"
   :_meta:
-    :updated_at: '2020-02-16T16:02:54+00:00'
-    :created_at: '2020-02-16T16:02:54+00:00'
-    :id: 6Y3xIt7mQ83ooleSJKwj1z
-- :title: Londres 3
-  :description: Lorem ipsum dolor ad astra per londres 3
-  :url: "//images.ctfassets.net/5othgs0vvum9/4TlFQhaZS8qhg3it0rzKo/02785b94036ff39f230d03ddb586e060/photo-1506501139174-099022df5260"
-  :_meta:
-    :updated_at: '2020-02-16T16:04:17+00:00'
-    :created_at: '2020-02-16T16:04:17+00:00'
-    :id: 4TlFQhaZS8qhg3it0rzKo
-- :title: Londres 4
-  :description: Lorem ipsum ad astra per aspera londres 4
-  :url: "//images.ctfassets.net/5othgs0vvum9/4XA4YqTAsekHeNIa2lnI2s/8f4eb712d20f2a540ddfa7ee5a9d405f/photo-1480449649358-ee14c6ee0b17"
-  :_meta:
-    :updated_at: '2020-02-16T16:05:01+00:00'
-    :created_at: '2020-02-16T16:05:01+00:00'
-    :id: 4XA4YqTAsekHeNIa2lnI2s
-- :title: Londres 4
-  :description: Lorem ipsum osseus londres 4
-  :url: "//images.ctfassets.net/5othgs0vvum9/1l4Fz6zeGky7ItdOyOzQA6/426eb980dfffc8e500cc0ab5d918cbf5/photo-1520967824495-b529aeba26df"
-  :_meta:
-    :updated_at: '2020-02-16T16:07:55+00:00'
-    :created_at: '2020-02-16T16:07:55+00:00'
-    :id: 1l4Fz6zeGky7ItdOyOzQA6
-- :title: Londres 4
-  :description: Lorem ipsum ad astra per aspera londres 4
-  :url: "//images.ctfassets.net/5othgs0vvum9/4XA4YqTAsekHeNIa2lnI2s/8f4eb712d20f2a540ddfa7ee5a9d405f/photo-1480449649358-ee14c6ee0b17"
-  :_meta:
-    :updated_at: '2020-02-16T16:05:01+00:00'
-    :created_at: '2020-02-16T16:05:01+00:00'
-    :id: 4XA4YqTAsekHeNIa2lnI2s
-- :title: High Park
+    :updated_at: '2020-06-25T19:20:41+00:00'
+    :created_at: '2020-06-24T23:51:37+00:00'
+    :id: 7BGReAUWQJxdv3xjrK9zDY
+- :title: planimetria-1
   :description: 
-  :url: "//images.ctfassets.net/5othgs0vvum9/7hELWwyDqlU2McYZX0LMyN/fab03cc610e58d07bfb5ec3971b26d69/Screen_Shot_2020-03-17_at_5.38.20.png"
+  :url: "//images.ctfassets.net/5othgs0vvum9/5RaPEoSgwUMWgVnxjbR7bk/4e96d18582a0944d26787d63aaa24883/planimetria-3.png"
   :_meta:
-    :updated_at: '2020-03-17T11:46:10+00:00'
-    :created_at: '2020-03-17T11:46:10+00:00'
-    :id: 7hELWwyDqlU2McYZX0LMyN
-- :title: Londres 3
-  :description: Lorem ipsum dolor ad astra per londres 3
-  :url: "//images.ctfassets.net/5othgs0vvum9/4TlFQhaZS8qhg3it0rzKo/02785b94036ff39f230d03ddb586e060/photo-1506501139174-099022df5260"
+    :updated_at: '2020-06-25T19:23:03+00:00'
+    :created_at: '2020-06-24T23:51:57+00:00'
+    :id: 5RaPEoSgwUMWgVnxjbR7bk
+- :title: Las Huastecas 04
+  :description: 'Huastecas 01
+
+'
+  :url: "//images.ctfassets.net/5othgs0vvum9/2h9Q8es9lwB6USSTpHXqHC/8a10e4b6f555a4b54312d9f697878a5c/Huastecas-01.png"
   :_meta:
-    :updated_at: '2020-02-16T16:04:17+00:00'
-    :created_at: '2020-02-16T16:04:17+00:00'
-    :id: 4TlFQhaZS8qhg3it0rzKo
-- :title: Londres 1
-  :description: Lorem ipsum dolor londres 1
-  :url: "//images.ctfassets.net/5othgs0vvum9/2yjbRnKYOwwefNm0WB8c0c/492b8f3076a471e89287271019bc9aa4/photo-1505761671935-60b3a7427bad"
+    :updated_at: '2020-06-25T19:31:58+00:00'
+    :created_at: '2020-06-24T23:52:15+00:00'
+    :id: 2h9Q8es9lwB6USSTpHXqHC
+- :title: Las Huastecas 05
+  :description: 'Las Huastecas 02
+
+'
+  :url: "//images.ctfassets.net/5othgs0vvum9/50O8tYPwKKUpaVzkXTt0xP/dc405ebeb9e0fe21d6f39bf77fa2f7e7/Huastecas-02.png"
   :_meta:
-    :updated_at: '2020-02-16T16:03:23+00:00'
-    :created_at: '2020-02-16T16:02:02+00:00'
-    :id: 2yjbRnKYOwwefNm0WB8c0c
-- :title: Londres 2
-  :description: Lorem ipsum londres 2
-  :url: "//images.ctfassets.net/5othgs0vvum9/6Y3xIt7mQ83ooleSJKwj1z/9a33cc212315fbc533e34c6ac852aee3/photo-1513635269975-59663e0ac1ad"
+    :updated_at: '2020-06-25T22:36:30+00:00'
+    :created_at: '2020-06-24T23:52:32+00:00'
+    :id: 50O8tYPwKKUpaVzkXTt0xP
+- :title: Las Huastecas 06
+  :description: Las Huastecas 03
+  :url: "//images.ctfassets.net/5othgs0vvum9/6uTDqHEc87C7IqyALuatxZ/defa679d8d04d46b65bedd07935f0347/Huastecas-03.png"
   :_meta:
-    :updated_at: '2020-02-16T16:02:54+00:00'
-    :created_at: '2020-02-16T16:02:54+00:00'
-    :id: 6Y3xIt7mQ83ooleSJKwj1z
+    :updated_at: '2020-06-25T22:37:22+00:00'
+    :created_at: '2020-06-24T23:52:50+00:00'
+    :id: 6uTDqHEc87C7IqyALuatxZ
+- :title: Las Huastecas 07
+  :description: Las Huastecas 04
+  :url: "//images.ctfassets.net/5othgs0vvum9/2FpkBMpObVlNmI9mtzpXDk/b01b7b1976c03306562eb8fc62d5895e/Huastecas-04.png"
+  :_meta:
+    :updated_at: '2020-06-25T23:18:03+00:00'
+    :created_at: '2020-06-24T23:53:08+00:00'
+    :id: 2FpkBMpObVlNmI9mtzpXDk
+- :title: planimetria-1
+  :description: 
+  :url: "//images.ctfassets.net/5othgs0vvum9/3z1FpEeoLglwIHhvR41Ofu/b3dda1a9427abe09b69b8dd9e5930c76/Huastecas-05.png"
+  :_meta:
+    :updated_at: '2020-06-25T23:20:32+00:00'
+    :created_at: '2020-06-24T23:53:28+00:00'
+    :id: 3z1FpEeoLglwIHhvR41Ofu
+- :title: planimetria-1
+  :description: 
+  :url: "//images.ctfassets.net/5othgs0vvum9/3KvRblVg4QPHs1GzJL0w3N/947958038463995c3074de3590c3086c/Huastecas-06.png"
+  :_meta:
+    :updated_at: '2020-06-25T23:24:48+00:00'
+    :created_at: '2020-06-24T23:53:48+00:00'
+    :id: 3KvRblVg4QPHs1GzJL0w3N
+- :title: planimetria-1
+  :description: 
+  :url: "//images.ctfassets.net/5othgs0vvum9/4KnqKoQdekwqSFX4O55Vqq/e0f53af96d1bb39c4bb09f64d6773638/Detalle_1.jpg"
+  :_meta:
+    :updated_at: '2020-06-26T00:00:12+00:00'
+    :created_at: '2020-06-24T23:54:09+00:00'
+    :id: 4KnqKoQdekwqSFX4O55Vqq
 :seo:
-  :id: 5lrdb90NKK4B2nedCf4sqx
+  :id: 3hGl6gU55K6PNreBxqYM6X
   :_meta:
     :content_type_id: seo
-    :updated_at: '2020-02-16T16:06:14+00:00'
-    :created_at: '2020-02-16T16:06:14+00:00'
-    :id: 5lrdb90NKK4B2nedCf4sqx
-  :titulo: Ecoh - Londres 2049
-  :descripcion: Lorem ipsum dolor sit amet consectetur ad astra per aspera osseus
-    londres
+    :updated_at: '2020-06-26T05:49:06+00:00'
+    :created_at: '2020-06-26T05:49:06+00:00'
+    :id: 3hGl6gU55K6PNreBxqYM6X
+  :titulo: Ecoh -
+  :descripcion: Texto Latín
   :imagen:
-    :title: Londres 1
-    :description: Lorem ipsum dolor londres 1
-    :url: "//images.ctfassets.net/5othgs0vvum9/2yjbRnKYOwwefNm0WB8c0c/492b8f3076a471e89287271019bc9aa4/photo-1505761671935-60b3a7427bad"
+    :title: LH
+    :description: LH
+    :url: "//images.ctfassets.net/5othgs0vvum9/2HfqaFd5QqANonW5LHNoHX/1e49f40a61ee49b3984253acc673973c/Huastecas-01.png"
     :_meta:
-      :updated_at: '2020-02-16T16:03:23+00:00'
-      :created_at: '2020-02-16T16:02:02+00:00'
-      :id: 2yjbRnKYOwwefNm0WB8c0c
+      :updated_at: '2020-06-26T05:49:12+00:00'
+      :created_at: '2020-06-26T05:49:12+00:00'
+      :id: 2HfqaFd5QqANonW5LHNoHX
