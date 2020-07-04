@@ -1,0 +1,124 @@
+---
+:id: 6bJ42m1apAsL7fvKXQrft5
+:_meta:
+  :content_type_id: proyecto
+  :updated_at: '2020-07-03T05:14:59+00:00'
+  :created_at: '2020-07-03T05:14:59+00:00'
+  :id: 6bJ42m1apAsL7fvKXQrft5
+:imagen_de_inicio:
+  :title: Briochels 01
+  :description: Briochels 01
+  :url: "//images.ctfassets.net/5othgs0vvum9/4nx6KJypTZb7xeWf8UenVj/031ca4d48c2b28fc4ce7a26589183cab/Briochels-03.png"
+  :_meta:
+    :updated_at: '2020-07-03T04:52:16+00:00'
+    :created_at: '2020-07-03T04:52:16+00:00'
+    :id: 4nx6KJypTZb7xeWf8UenVj
+:nombre: Briochels
+:superficie_construida: N/A
+:ubicacion: Saltillo, Coahuila
+:ano: 2020
+:detalles:
+- :id: 5zgJQaTzpbm7qeam9sTX6q
+  :_meta:
+    :content_type_id: texto
+    :updated_at: '2020-07-03T05:18:12+00:00'
+    :created_at: '2020-07-03T04:58:49+00:00'
+    :id: 5zgJQaTzpbm7qeam9sTX6q
+  :texto: |-
+    Diseño conceptual de Arquitectura e Interiores, en conjunto con Parámetro Studio. Se diseñó para un restaurante de brunch y "after-office" bistro, ubicado al norte de México.
+
+    Dirección de Arte / Identidad de Marca: Parámetro Studio
+:imagenes:
+- :title: Briochels 01
+  :description: |-
+    Briochels 01
+
+    Imagen por Parámetro Studio
+  :url: "//images.ctfassets.net/5othgs0vvum9/6BQ6O4sQa2PTIG050Gf3Zg/c6fcabb04431efde244c75ce10c362d1/Briochels-01.png"
+  :_meta:
+    :updated_at: '2020-07-03T05:04:04+00:00'
+    :created_at: '2020-07-03T04:59:54+00:00'
+    :id: 6BQ6O4sQa2PTIG050Gf3Zg
+- :title: Briochels 02
+  :description: Briochels 01
+  :url: "//images.ctfassets.net/5othgs0vvum9/4lfvnT7qS0TQ142KMpbS2Z/cb0169ce41b22fdfd90a0088ecd2fd38/Briochels-02.png"
+  :_meta:
+    :updated_at: '2020-07-03T05:03:26+00:00'
+    :created_at: '2020-07-03T05:03:26+00:00'
+    :id: 4lfvnT7qS0TQ142KMpbS2Z
+- :title: Briochels 03
+  :description: Briochels 02
+  :url: "//images.ctfassets.net/5othgs0vvum9/5ZgryyAjDQzRzb3JfxNnhB/fa08f0a3afc61db58e5e73f95a0db745/Briochels-04.png"
+  :_meta:
+    :updated_at: '2020-07-03T05:05:48+00:00'
+    :created_at: '2020-07-03T05:05:24+00:00'
+    :id: 5ZgryyAjDQzRzb3JfxNnhB
+- :title: Briochels 04
+  :description: Briochels 03
+  :url: "//images.ctfassets.net/5othgs0vvum9/5FG7EJVfUc6T5Rshj9vEjY/a16ed875ffb3422b336fc030d81bc047/Briochels-03.png"
+  :_meta:
+    :updated_at: '2020-07-03T05:07:25+00:00'
+    :created_at: '2020-07-03T05:07:25+00:00'
+    :id: 5FG7EJVfUc6T5Rshj9vEjY
+- :title: Briochels 05
+  :description: |-
+    Briochels 05
+
+    Imagen por: Parámetro Studio
+  :url: "//images.ctfassets.net/5othgs0vvum9/AwXNKeKvHjJl1r0ZWuX9q/5665865d5452ebe3b7794e88275fc30b/Briochels-05.png"
+  :_meta:
+    :updated_at: '2020-07-03T05:11:03+00:00'
+    :created_at: '2020-07-03T05:11:03+00:00'
+    :id: AwXNKeKvHjJl1r0ZWuX9q
+- :title: Briochels 06
+  :description: Blank
+  :url: "//images.ctfassets.net/5othgs0vvum9/1dUKBkihrtmFAxYrt1FTTN/39484c754779d3db57533337f52fa14c/Briochels-06.png"
+  :_meta:
+    :updated_at: '2020-07-03T05:11:30+00:00'
+    :created_at: '2020-07-03T05:11:30+00:00'
+    :id: 1dUKBkihrtmFAxYrt1FTTN
+- :title: Briochels 07
+  :description: Blank
+  :url: "//images.ctfassets.net/5othgs0vvum9/5tGNpsKZVrOMl7il3cabzE/616f5ad1934edb55d5597865aaca5947/Briochels-06.png"
+  :_meta:
+    :updated_at: '2020-07-03T05:11:54+00:00'
+    :created_at: '2020-07-03T05:11:54+00:00'
+    :id: 5tGNpsKZVrOMl7il3cabzE
+- :title: Briochels 08
+  :description: Briochels 08
+  :url: "//images.ctfassets.net/5othgs0vvum9/1V86AOtzeIaC9xYl2yjYZB/bf56198b645836e85c273b28c221aba5/Briochels-06.png"
+  :_meta:
+    :updated_at: '2020-07-03T05:12:16+00:00'
+    :created_at: '2020-07-03T05:12:16+00:00'
+    :id: 1V86AOtzeIaC9xYl2yjYZB
+- :title: Briochels 09
+  :description: Blank
+  :url: "//images.ctfassets.net/5othgs0vvum9/4MxCwxslJABHNVzp8DxERC/337662734a289cd82263384f619297fe/Briochels-06.png"
+  :_meta:
+    :updated_at: '2020-07-03T05:12:51+00:00'
+    :created_at: '2020-07-03T05:12:51+00:00'
+    :id: 4MxCwxslJABHNVzp8DxERC
+- :title: Briochels 10
+  :description: Blank
+  :url: "//images.ctfassets.net/5othgs0vvum9/5jBtRtlPHBbM2379BGFY3m/070d971cc207c4533cda465589ae8d11/Briochels-06.png"
+  :_meta:
+    :updated_at: '2020-07-03T05:13:16+00:00'
+    :created_at: '2020-07-03T05:13:16+00:00'
+    :id: 5jBtRtlPHBbM2379BGFY3m
+:seo:
+  :id: 4GDlYmzNkvJ2zVZB7aUm1T
+  :_meta:
+    :content_type_id: seo
+    :updated_at: '2020-07-03T05:14:49+00:00'
+    :created_at: '2020-07-03T05:14:49+00:00'
+    :id: 4GDlYmzNkvJ2zVZB7aUm1T
+  :titulo: 'Briochels '
+  :descripcion: Briochels Terraza
+  :imagen:
+    :title: 'Briochels '
+    :description: Briochels Terraza
+    :url: "//images.ctfassets.net/5othgs0vvum9/5gq9X2wPs6kXywJebPP2Dn/24a736fedbd6ece7f54fe9ef3b79c4cc/Briochels-03.png"
+    :_meta:
+      :updated_at: '2020-07-03T05:14:25+00:00'
+      :created_at: '2020-07-03T05:14:25+00:00'
+      :id: 5gq9X2wPs6kXywJebPP2Dn

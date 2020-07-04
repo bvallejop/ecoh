@@ -1,8 +1,10 @@
+lozad().observe();
+
 const imagenPrincipal = document.getElementById("imagen-principal");
 const imagenes = document.querySelectorAll(`[data-imagen]`);
 
 Array.from(imagenes).forEach(imagen => {
-  let imagenUrl = imagen.getAttribute("src");
+  let imagenUrl = imagen.getAttribute("data-src");
 
   imagen.addEventListener("click", () => {
     imagenPrincipal.setAttribute("src", imagenUrl);
