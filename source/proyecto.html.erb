@@ -54,7 +54,7 @@
       <img
         id="imagen-principal"
         class="lozad d-block w-100pt of-cover-m d-none d-flex-l w-100pt-l h-100pt-l of-cover-l"
-        data-src="<%= proyecto.imagenes[0].url %>?w=600"
+        data-src="<%= proyecto.imagenes[0].url %>?w=1600"
         alt="<%= proyecto.imagenes[0].description %>"
       />
     </div>
@@ -64,8 +64,8 @@
           <img
             data-imagen="imagen-<%= index+1 %>"
             class="lozad d-block w-100pt h-100pt of-cover-m h-100pt-m <% if index == 0 %>o-100pt-l<% else %>o-35pt-l<% end %>"
-            data-srcset="<%= imagen.url %>?w=600 600w, <%= imagen.url %>?w=200 200w"
-            data-src="<%= imagen.url %>?w=600"
+            data-srcset="<%= imagen.url %>?w=1600 1600w, <%= imagen.url %>?w=200 200w"
+            data-src="<%= imagen.url %>?w=1600"
             alt="<%= imagen.description %>"
             width="200"
             height="200"
